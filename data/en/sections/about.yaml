@@ -8,95 +8,125 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Master's Graduate
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: University of Dhaka
+  url: "https://du.ac.bd/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "A capable bioinformatician and aspiring molecular biologist, Ahnaf Tajwar possesses expertise in functional genomics, phytochemical analysis, and evolutionary biology. Holding a Master's degree in Genetic Engineering and Biotechnology from the University of Dhaka, he has published research on protein annotation and virulence prediction. With proficiency in programming, data analysis, and laboratory techniques, he excels in interdisciplinary projects. Ahnaf's diverse skillset, coupled with his critical thinking and collaborative nature, makes him a valuable asset in the field of biotechnology and genomics research."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
-
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "mailto:atn4404@gmail.com"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+  url: "https://www.linkedin.com/in/ahnaf-tajwar-226122223"
 
 - name: ResearchGate
   icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  url: "https://www.researchgate.net/profile/Ahnaf-Tajwar"
+
+- name: Orcid
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-7872-328X"
+
+- name: Google Scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=VIvBUWAAAAAJ"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/AhnafTajwar"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/14096046/ahnaf-tajwar"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/hnaftajwar"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/hnftjwr"
+
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@ahnaftajwar"
+  rel: "me noopener"
+
+- name: Reddit
+  icon: "fab fa-reddit"
+  url: "https://www.reddit.com/user/ciprofloxamycin"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/ahnaftajwar"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Resume"
   url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+# - type: certification
+#   name: Istio and IBM Cloud Kubernetes Service
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Linux
+  percentage: 100
+  color: "#ff6384"
+
+- type: soft-skill-indicator
+  name: Python
+  percentage: 70
+  color: "#36a2eb"
+
+- type: soft-skill-indicator
+  name: R
+  percentage: 80
+  color: "#ffce56"
+
+- type: soft-skill-indicator
+  name: Recombinant DNA Technology
+  percentage: 60
+  color: "#9370db"
+
+- type: soft-skill-indicator
+  name: Microbial Assays
+  percentage: 80
+  color: "#00ff7f"
+
+- type: soft-skill-indicator
+  name: Phytochemical Extraction
   percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-
+  color: "#ff7f50"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
