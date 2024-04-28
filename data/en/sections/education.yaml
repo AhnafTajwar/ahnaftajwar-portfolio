@@ -10,26 +10,55 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
+- name: M.Sc. in Genetic Engineering and Biotechnology
+  icon: fa-dna
+  timeframe: 2022-2024
   institution:
     name: ABC University of Technology
     url: "#"
-    logo: /images/sections/education/tech_college.png
+    logo: /images/sections/education/dhaka_university.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
+    achieved: 3.73
     outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: GEB-501 Computational and Systems Biology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-502 Recombinant DNA Technology (4 Credits)
+      achieved: 3.80
+      outOf: 4
+    - name: GEB-503 Medical Biotechnology (4 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-504 Industrial Biotechnology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-505 Agricultural Biotechnology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-506 Seminar (2 credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-507 Thesis (6 credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-508 Viva-voce (2 credits)
+      achieved: 3.75
+      outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016

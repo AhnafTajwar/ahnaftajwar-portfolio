@@ -15,6 +15,10 @@ contactInfo:
     icon: telegram
     url: "https://t.me/ahnaftajwar"
     text: "Ahnaf Tajwar"
+  messenger:
+    icon: facebook-messenger
+    url: "https://m.me/hnftjwr"
+    text: "Ahnaf Tajwar"
 
 # some summary about what you do
 summary:
