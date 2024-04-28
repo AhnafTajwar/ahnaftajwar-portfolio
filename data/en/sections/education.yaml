@@ -14,8 +14,8 @@ degrees:
   icon: fa-dna
   timeframe: 2022-2024
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: University of DHaka
+    url: "https://du.ac.bd/"
     logo: /images/sections/education/dhaka_university.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
@@ -29,10 +29,10 @@ degrees:
     collapseAfter: 5
     courses:
     - name: GEB-501 Computational and Systems Biology (4 Credits)
-      achieved: 3.75
+      achieved: 3.5
       outOf: 4
     - name: GEB-502 Recombinant DNA Technology (4 Credits)
-      achieved: 3.80
+      achieved: 3.75
       outOf: 4
     - name: GEB-503 Medical Biotechnology (4 Credits)
       achieved: 3.5
@@ -41,17 +41,25 @@ degrees:
       achieved: 3.75
       outOf: 4
     - name: GEB-505 Agricultural Biotechnology (4 Credits)
-      achieved: 3.75
+      achieved: 3.5
       outOf: 4
-    - name: GEB-506 Seminar (2 credits)
-      achieved: 3.75
+    - name: GEB-506 Seminar (2 Credits)
+      achieved: 4
       outOf: 4
-    - name: GEB-507 Thesis (6 credits)
-      achieved: 3.75
+    - name: GEB-507 Thesis (6 Credits)
+      achieved: 4
       outOf: 4
-    - name: GEB-508 Viva-voce (2 credits)
-      achieved: 3.75
+    - name: GEB-508 Viva-voce (2 Credits)
+      achieved: 4
       outOf: 4
+  custonSections: #(optional)
+    - name: Dissertation
+      content: "Evaluation of Phytochemical Properties and *In Vitro* Antimicrobial Activity of *Costus woodsonii* Extracts"
+    - name: Supervisor
+      content: "Abira Khan"
+  extracurricularActivities: #(optional)
+  - Community moderation of Notesnook, a note-taking platform
+  - Creative essay and article writing
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
@@ -59,58 +67,173 @@ degrees:
   #   url: "#"
   # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #   url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: B.Sc. (Hons.) in Genetic Engineering and Biotechnology
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2018-2022
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+    name: University of Dhaka
+    url: "https://du.ac.bd/"
+    logo: /images/sections/education/dhaka_university.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
+    achieved: 3.77
     outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
+    showGrades: false
+    collapseAfter: 10
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
+    - name: GEB-401 Advanced Molecular Biology (4 Credits)
+      achieved: 3.25
       outOf: 4
-    - name: Network Security
-      achieved: 3.80
+    - name: GEB-402 Cell Signaling (2 Credits)
+      achieved: 2
       outOf: 4
-    - name: Operating System
+    - name: GEB-403 Immunology (2 Credits)
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: GEB-404 Molecular Diagnostics (2 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-405 Forensic DNA Technology (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-406 Genomics, Proteomics and Bioinformatics (2 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-407 Microbial Biotechnology (4 credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-408 Plant Biotechnology (3 Credits)
+      achieved: 3.25
+      outOf: 4
+    - name: GEB-409 Animal Biotechnology (3 Credits)
+      achieved: 4
+      outOf: 4
+    - name: GEB-410 Environmental Biotechnology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-411 Laboratory Experiments (6 Credits)
+      achieved: 4
+      outOf: 4
+    - name: GEB-412 Project (2 Credits)
+      achieved: 4
+      outOf: 4
+    - name: GEB-413 Viva-voce (2 Credits)
+      achieved: 4
+      outOf: 4
+    - name: GEB-301 Plant Physiology (4 Credits)
+      achieved: 3.
+      outOf: 4
+    - name: GEB-302 Basics of Molecular Biology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-303 Basic Immunology (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-304 Microbial Genetics (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-305 Developmental Biology (2 Credits)
+      achieved: 3.80
+      outOf: 4
+    - name: GEB-306 Virology (2 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-307 Molecular Biology of Diseases (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-308 Methods in Biotechnology (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-309 Fermentation Technology and Bio-processing (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-310 Biostatistics and Epidemiology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-311 Laboratory Experiments (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-312 Viva-voce (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-201 Chemistry For Biologists II (4 Credits)
+      achieved: 3.80
+      outOf: 4
+    - name: GEB-202 Enzyme and Enzyme Kinetics (4 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-203 Protein Structure and Function (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-204 Bioenergetics and Metabolism (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-205 Human Physiology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-206 Physics for Biologists (3 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-207 Computing and Information Technology (3 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-208 Laboratory Experiments (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-209 Viva-voce (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-101 Basic Biology (2 Credits)
+      achieved: 3.80
+      outOf: 4
+    - name: GEB-102 Chemistry for Biologists I (4 Credits)
+      achieved: 3.5
+      outOf: 4
+    - name: GEB-103 Basic Biochemistry (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-104 Basic Microbiology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-105 Fundamentals of Genetic Engineering and Biotechnology (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-106 Mathematics for Biologists (2 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-107 FCL English Language (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-108 Laboratory Experiments (4 Credits)
+      achieved: 3.75
+      outOf: 4
+    - name: GEB-109 VIva-voce (2 Credits)
       achieved: 3.75
       outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  - title: "Functional Annotation of Hypothetical Proteins From the Enterobacter cloacae B13 Strain and Its Association With Pathogenicity"
+    url: "https://journals.sagepub.com/doi/full/10.1177/11779322221115535"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Editing, typesetting and designing of BioGen Magazine, Genetic Engineering and Biotechnology Club, University of Dhaka
+  - Creative essay and article writing
+  - Seerat reading competition participation
+  - Islamic aqeedah reading competition participation
   custonSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - name: Dissertation
+      content: "Exploring the Virulence of *Tsukamurella paurometabola* Through Functional Annotation of Hypothetical Proteins"
     - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
+      content: Dr. Abul Bashar Mir Md. Khademul Islam
+- name: Higher Secondary School Certificate in Science
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2015-2017
   institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
+    name: Dhaka Residential Model College
+    url: "http://drmc.edu.bd/"
+    logo: /images/sections/education/drmc.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/science_college.png
   grade: #(optional)
@@ -118,16 +241,23 @@ degrees:
     achieved: 5
     outOf: 5
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - Academic volunteering at DRMC Science Club, Dhaka Residential Model College
+  - Quizzing as a member of DRMC Inflamers, Dhaka Residential Model College
+- name: Secondary School Certificate in Science
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2013-2015
   institution:
-    name: JK School of Science
+    name: Dhaka Residential Model College
+    url: "http://drmc.edu.bd/"
+    logo: /images/sections/education/drmc.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 4.5
+    achieved: 5
     outOf: 5
+  extracurricularActivities: #(optional)
+  - Academic volunteering at DRMC Science Club, Dhaka Residential Model College
+  - Quizzing as a member of DRMC Inflamers, Dhaka Residential Model College
+  - Participating in Bangabandhu Creative Talent Hunt Competition
+  - Participating in National Math Olympiad

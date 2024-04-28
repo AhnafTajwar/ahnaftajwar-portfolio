@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Achievements
+  name: Accolades
   id: achievements
-  enable: false
+  enable: true
   weight: 10
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -10,12 +10,12 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+- title: National Science and Technology Fellowship
+  image: /images/sections/achievements/nst-fellowship.jpg
+  summary: Recipient of the prestigious National Science and Technology Fellowship from Ministry of Science and Technology, Government of Bangladesh.
+- title: 6th Prize in Dhaka University Seerat Reading and Competition
+  image: /images/sections/achievements/du-seerah.jpg.jpg
+  summary: Secured 6th position in Dhaka University Seerat Reading and Competition.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
