@@ -17,3 +17,5 @@ Attributions:
 - <a href="https://www.flaticon.com/free-icons/infection" title="Infection icons">Infection icons created by Freepik - Flaticon</a>
 - <a href="https://www.freepik.com/icon/chlorophyll_1456535#fromView=search&page=1&position=5&uuid=e342ebe1-8863-4c69-a9f8-b61e26b761ae">Icon by Eucalyp</a>
 - <a href="https://www.flaticon.com/free-icons/r" title="r icons">R icons created by Becris - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/environmental" title="Environmental icons">Environmental icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/scientist" title="scientist icons">Scientist icons created by Freepik - Flaticon</a>
