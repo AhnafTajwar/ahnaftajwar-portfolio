@@ -14,7 +14,7 @@ degrees:
   icon: fa-dna
   timeframe: 2022-2024
   institution:
-    name: University of DHaka
+    name: University of Dhaka
     url: "https://du.ac.bd/"
     logo: /images/sections/education/dhaka_university.png
     # Can optionally show a different logo for dark theme

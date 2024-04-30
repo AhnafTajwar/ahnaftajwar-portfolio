@@ -11,39 +11,104 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Bioinformatics and Biostatistics
+  logo: /images/sections/skills/bioinformatics.png
+  summary: "Adroit in using bioinformatics tools like BLAST, MEGA, RaptorX, STRING, and Cytoscape for sequence analysis, phylogenetics, and protein studies. Proficient in statistical analysis with GraphPad Prism and SPSS. Skilled in DNA/primer design and homology modeling software."
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Experienced in Python programming particularly using IDLE and PyCharm, having solved numerous coding challenges in programming competitions. Familiar with data preprocessing tasks such as dataset cleanup and preparation. Capable of generating insights through graphical visualizations."
+  url: "https://www.python.org"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: "Proficient in handling diverse data variable formats in R. Adept at leveraging RStudio for comprehensive data cleaning and munging. Skilled in visualizing data particularly through ggplot2, effectively communicating data-driven insights via graphs and charts. Can use R Markdown for reproducible reporting and presentations."
+  url: "https://www.r-project.org"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Proficient in Linux system administration, able to set up and configure Linux environments from scratch. Able to write complex bash and shell scripts, and adept at command-line operations."
+  url: "https://kernel.org"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Competent in git-based development workflows across GitHub, GitLab, and Bitbucket. More experienced with GitHub for version control, branching strategies, commit management, and collaborative code reviews through pull requests."
   url: "https://git-scm.com/"
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Hands-on experience with infrastructure and platform services across leading cloud platforms (AWS, GCP, Azure). Deeper expertise in Azure administration and configuration."
+
+- name: Recombinant DNA Technology
+  logo: /images/sections/skills/rdna.png
+  summary: "Adept at exploiting genetic engineering techniques like PCR, gene cloning, and recombinant protein expression. Skilled in designing and executing experiments for genetic manipulation and generation of transgenic organisms. Versed in operating biotechnology equipment adhering to rigorous biosafety protocols."
+
+- name: Microbial Assays
+  logo: /images/sections/skills/bacteria.png
+  summary: "Able to cultivate bacteria from stock and assess their susceptibility to antimicrobial compounds, utilizing techniques such as bi-layer well diffusion assays and TLC bioautography to determine which compounds effectively inhibit microbial growth."
+
+- name: Plant Extraction and Phytochemical Screening
+  logo: /images/sections/skills/phytochemical.png
+  summary: "Experienced in collecting, processing, and extracting bioactive compounds from plant materials using various solvent systems. Skilled in qualitative phytochemical screening to assess the presence of diverse phytochemical classes."
+
+- name: Perl
+  logo: /images/sections/skills/perl.png
+  summary: "Well-versed in Perl with a strong understanding of fundamental concepts including variables, data manipulation (mathematical operations, string operators, etc.), control flow (conditionals, loops), data structures (arrays, hashes), file I/O, regular expressions, and function creation.  Acquainted with lexical scoping and variable scope management."
+  url: "https://www.perl.org"
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Able to apply basic C/C++ concepts like loops, conditionals, and arrays to solve problems in competitive programming."
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Can write SQL queries for data retrieval, manipulation (CRUD - Create, Read, Update, Delete), and analysis."
+
+- name: Writing Skills
+  logo: /images/sections/skills/creative-writing.png
+  summary: "Versatile writer with experience in both academic and creative writing, transcription and translation (English ↔ Bangla), and typesetting. Skilled at crafting compelling content, ensuring clear and effective communication."
+
+- name: Prompt Engineering
+  logo: /images/sections/skills/artificial-intelligence.png
+  summary: "Can input effective prompts for generative AI models like Gemini, Playground, GPT, Claude, DALL-E and Whisper by understanding their capabilities and tailoring prompts to achieve desired results."
+
+- name: Beta Testing and Community Support
+  logo: /images/sections/skills/bug.png
+  summary: "Well-informed in beta testing applications, extracting debug logs, and providing comprehensive feedback to developers. Experienced in offering community support for software products and proven ability to moderate online communities, as demonstrated by the role of moderator for Notesnook, a digital note-taking platform."
+
+- name: Website Development
+  logo: /images/sections/skills/webdev.png
+  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as my own blog) with a focus on design, functionality, and user experience."
+
+- name: Office Suite
+  logo: /images/sections/skills/office-suite.png
+  summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft and OpenOffice-based suite of office apps."
+
+- name: Graphic Design
+  logo: /images/sections/skills/crop-tool.png
+  summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design."
+
+- name: Soft Skills
+  logo: /images/sections/skills/soft-skills.png
+  summary: "An adaptable, critical thinker adept at analyzing complexities, finding creative solutions, and collaborating seamlessly with diverse teams to deliver outstanding results while eagerly acquiring new skills."
+
+# - name: Kubernetes
+#   logo: /images/sections/skills/kubernetes.png
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   url: "https://kubernetes.io/"
+
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"
+
+# - name: Docker
+#   logo: /images/sections/skills/docker.svg
+#   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#   url: "https://www.docker.com/"
+
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
+
