@@ -78,11 +78,11 @@ skills:
 
 - name: Website Development
   logo: /images/sections/skills/webdev.png
-  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as my own blog) with a focus on design, functionality, and user experience."
+  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience."
 
 - name: Office Suite
   logo: /images/sections/skills/office-suite.png
-  summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft and OpenOffice-based suite of office apps."
+  summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft Office and OpenOffice-based suite of office apps."
 
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
