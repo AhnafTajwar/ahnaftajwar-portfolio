@@ -19,3 +19,9 @@ Attributions:
 - <a href="https://www.flaticon.com/free-icons/r" title="r icons">R icons created by Becris - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/environmental" title="Environmental icons">Environmental icons created by Freepik - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/scientist" title="scientist icons">Scientist icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/aquaculture" title="aquaculture icons">Aquaculture icons created by iconixar - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/disease" title="disease icons">Disease icons created by Nhor Phai - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/protein" title="protein icons">Protein icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/protein" title="protein icons">Protein icons created by Backwoods - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/development" title="development icons">Development icons created by Design Circle - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/blog" title="blog icons">Blog icons created by Freepik - Flaticon</a>

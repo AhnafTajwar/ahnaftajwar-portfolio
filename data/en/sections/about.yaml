@@ -105,7 +105,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Python
-  percentage: 70
+  percentage: 80
   color: "#36a2eb"
 
 - type: soft-skill-indicator
