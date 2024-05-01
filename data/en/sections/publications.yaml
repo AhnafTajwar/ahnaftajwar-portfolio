@@ -41,7 +41,7 @@ publications:
     summary: "*Enterobacter cloacae* B13 strain is a rod-shaped gram-negative bacterium that belongs to the Enterobacteriaceae family. It can cause respiratory and urinary tract infections, and is responsible for several outbreaks in hospitals. *E. cloacae* has become an important pathogen and an emerging global threat because of its opportunistic and multidrug resistant ability. However, little knowledge is present about a large portion of its proteins and functions..."
     url: https://journals.sagepub.com/doi/full/10.1177/11779322221115535
   categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+  tags: ["Dry Lab", "Bioinformatics", "Microbiology", "Virulence"]
 
 # - title: An Example Paper on Machine Learning
 #   publishedIn:
