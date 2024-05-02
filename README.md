@@ -25,3 +25,4 @@ Attributions:
 - <a href="https://www.flaticon.com/free-icons/protein" title="protein icons">Protein icons created by Backwoods - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/development" title="development icons">Development icons created by Design Circle - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/blog" title="blog icons">Blog icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/server" title="server icons">Server icons created by RaftelDesign - Flaticon</a>
