@@ -27,7 +27,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Proficient in Linux system administration, able to set up and configure Linux environments from scratch. Able to write complex bash and shell scripts, and adept at command-line operations."
+  summary: "Extremely familiar with Linux system administration, able to set up and configure Linux environments from scratch. Able to write complex bash and shell scripts, and adept at command-line operations."
   url: "https://kernel.org"
 
 - name: Git
