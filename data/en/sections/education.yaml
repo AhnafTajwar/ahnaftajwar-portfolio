@@ -58,8 +58,10 @@ degrees:
     - name: Supervisor
       content: "Abira Khan"
   extracurricularActivities: #(optional)
-  - Community moderation of Notesnook, a note-taking platform
   - Creative essay and article writing
+  - Volunteering at local mosque
+  - Tutoring
+  - Chess
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
@@ -222,6 +224,9 @@ degrees:
   - Creative essay and article writing
   - Seerat reading competition participation
   - Islamic aqeedah reading competition participation
+  - Volunteering at local mosque
+  - Tutoring
+  - Chess
   custonSections: #(optional)
     - name: Dissertation
       content: "Exploring the Virulence of *Tsukamurella paurometabola* Through Functional Annotation of Hypothetical Proteins"
@@ -243,6 +248,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Academic volunteering at DRMC Science Club, Dhaka Residential Model College
   - Quizzing as a member of DRMC Inflamers, Dhaka Residential Model College
+  - Participating in competitive gaming
 - name: Secondary School Certificate in Science
   icon: fa-school
   timeframe: 2013-2015
@@ -261,3 +267,5 @@ degrees:
   - Quizzing as a member of DRMC Inflamers, Dhaka Residential Model College
   - Participating in Bangabandhu Creative Talent Hunt Competition
   - Participating in National Math Olympiad
+  - Participating in competitive gaming
+
