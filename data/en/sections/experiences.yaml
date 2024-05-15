@@ -30,6 +30,25 @@ experiences:
     - Community moderation, fostering positive discussions, enforcing guidelines, and relaying feedback to developers.
     - Assistance in maintaining user documentation, FAQs, and knowledge base articles.
 
+- company:
+    name:  Al-Quraner Vasha Institute (Institute of the Language of The Quran)
+    url: "https://www.alquranervasha.com/"
+    location: Dhaka, Bangladesh
+    logo: /images/sections/experiences/aqvi.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Al Quraner Vasha Institute offers a free and accessible endeavor to learn Quranic Arabic with online classes and academic-level books.
+  positions:
+  - designation: Virtual Classroom Assistant
+    start: Jun 2021
+    end: Apr 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Moderated virtual classroom on Zoom for live "Comprehensive Arabic 21" course.
+    - Managed participant question queue on Zoom and relayed questions to instructor.
+    - Muted/removed disruptive participants for conducive learning during live classes.
+
 # - company:
 #     name: Example Co.
 #     url: "https://www.example.com"
