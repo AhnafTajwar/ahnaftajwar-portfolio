@@ -76,6 +76,10 @@ skills:
   logo: /images/sections/skills/bug.png
   summary: "Well-informed in beta testing applications, extracting debug logs, and providing comprehensive feedback to developers. Experienced in offering community support for software products and proven ability to moderate online communities, as demonstrated by the role of moderator for Notesnook, a digital note-taking platform."
 
+- name: Virtual Meeting Moderation
+  logo: /images/sections/skills/videoconference.png
+  summary: "Able to moderate and facilitate online meetings and virtual events using online platforms like Zoom and Google Meet. Skilled in managing participant interactions, screen sharing, breakout rooms, and ensuring a smooth and productive meeting experience for all attendees."
+
 - name: Website Development
   logo: /images/sections/skills/webdev.png
   summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience."
