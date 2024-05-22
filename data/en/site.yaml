@@ -27,6 +27,3 @@ openGraph:
   description: Portfolio of Ahnaf Tajwar showcasing his professional work, academic projects, and research contributions. 
   image: images/author/ahnaf.png
   url: https://ahnaftajwar.com
-
-# specify the title appearing on the navbar.
-navBarTitle: "Ahnaf Tajwar"
