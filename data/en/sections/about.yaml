@@ -48,34 +48,34 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/AhnafTajwar"
 
-- name: GitLab
-  icon: "fab fa-gitlab"
-  url: "https://gitlab.com/AhnafTajwar"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "https://stackoverflow.com/users/14096046/ahnaf-tajwar"
-
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/hnaftajwar"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/hnftjwr"
+# - name: GitLab
+#   icon: "fab fa-gitlab"
+#   url: "https://gitlab.com/AhnafTajwar"
 
-- name: Mastodon
-  icon: "fab fa-mastodon"
-  url: "https://mastodon.social/@ahnaftajwar"
-  rel: "me noopener"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "https://stackoverflow.com/users/14096046/ahnaf-tajwar"
 
-- name: Reddit
-  icon: "fab fa-reddit"
-  url: "https://www.reddit.com/user/ciprofloxamycin"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "https://www.facebook.com/hnftjwr"
 
-- name: Telegram
-  icon: "fab fa-telegram"
-  url: "https://t.me/ahnaftajwar"
+# - name: Mastodon
+#   icon: "fab fa-mastodon"
+#   url: "https://mastodon.social/@ahnaftajwar"
+#   rel: "me noopener"
+
+# - name: Reddit
+#   icon: "fab fa-reddit"
+#   url: "https://www.reddit.com/user/ciprofloxamycin"
+
+# - name: Telegram
+#   icon: "fab fa-telegram"
+#   url: "https://t.me/ahnaftajwar"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
