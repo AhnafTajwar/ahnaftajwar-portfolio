@@ -81,7 +81,7 @@ params:
 
     # Enable dark theme
     darkMode:
-      enable: false
+      enable: true
 
     # Enable and configure portfolio
     portfolio:
