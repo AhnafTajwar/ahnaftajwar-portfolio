@@ -52,7 +52,7 @@ degrees:
     - name: GEB-508 Viva-voce (2 Credits)
       achieved: 4
       outOf: 4
-  custonSections: #(optional)
+  customSections: #(optional)
     - name: Dissertation
       content: "Evaluation of Phytochemical Properties and *In Vitro* Antimicrobial Activity of *Costus woodsonii* Extracts"
     - name: Supervisor
@@ -227,7 +227,7 @@ degrees:
   - Volunteering at local mosque
   - Tutoring
   - Chess
-  custonSections: #(optional)
+  customSections: #(optional)
     - name: Dissertation
       content: "Exploring the Virulence of *Tsukamurella paurometabola* Through Functional Annotation of Hypothetical Proteins"
     - name: Supervisor
