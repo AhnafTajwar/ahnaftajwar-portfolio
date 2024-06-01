@@ -47,7 +47,7 @@ projects:
   role: Research Project
   timeline: "Aug 2021 - Sep 2022"
   summary: "Assisted with data collection and processing of functional annotation and virulence analysis of hypothetical proteins of *Enterobacter cloacae* B13 Strain."
-  tags: ["Dry lab", "Bioinformatics", "Microbiology", "Virulence"]
+  tags: ["Dry Lab", "Bioinformatics", "Microbiology", "Virulence"]
 
 - name: Development of This Portfolio Website Using Hugo
   logo: /images/sections/projects/portfolio-development.png
