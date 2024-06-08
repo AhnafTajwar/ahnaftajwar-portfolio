@@ -15,6 +15,18 @@ skills:
   logo: /images/sections/skills/bioinformatics.png
   summary: "Adroit in using bioinformatics tools like BLAST, MEGA, RaptorX, STRING, and Cytoscape for sequence analysis, phylogenetics, and protein studies. Proficient in statistical analysis with GraphPad Prism and SPSS. Skilled in DNA/primer design and homology modeling software."
 
+- name: Recombinant DNA Technology
+  logo: /images/sections/skills/rdna.png
+  summary: "Adept at exploiting genetic engineering techniques like PCR, gene cloning, and recombinant protein expression. Skilled in designing and executing experiments for genetic manipulation and generation of transgenic organisms. Versed in operating biotechnology equipment adhering to rigorous biosafety protocols."
+
+- name: Microbial Assays
+  logo: /images/sections/skills/bacteria.png
+  summary: "Able to cultivate bacteria from stock and assess their susceptibility to antimicrobial compounds, utilizing techniques such as bi-layer well diffusion assays and TLC bioautography to determine which compounds effectively inhibit microbial growth."
+
+- name: Plant Extraction and Phytochemical Screening
+  logo: /images/sections/skills/phytochemical.png
+  summary: "Experienced in collecting, processing, and extracting bioactive compounds from plant materials using various solvent systems. Skilled in qualitative phytochemical screening to assess the presence of diverse phytochemical classes."
+
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "Experienced in Python programming particularly using IDLE and PyCharm, having solved numerous coding challenges in programming competitions. Familiar with data preprocessing tasks such as dataset cleanup and preparation. Capable of generating insights through graphical visualizations."
@@ -38,18 +50,6 @@ skills:
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Hands-on experience with infrastructure and platform services across leading cloud platforms (AWS, GCP, Azure). Deeper expertise in Azure administration and configuration."
-
-- name: Recombinant DNA Technology
-  logo: /images/sections/skills/rdna.png
-  summary: "Adept at exploiting genetic engineering techniques like PCR, gene cloning, and recombinant protein expression. Skilled in designing and executing experiments for genetic manipulation and generation of transgenic organisms. Versed in operating biotechnology equipment adhering to rigorous biosafety protocols."
-
-- name: Microbial Assays
-  logo: /images/sections/skills/bacteria.png
-  summary: "Able to cultivate bacteria from stock and assess their susceptibility to antimicrobial compounds, utilizing techniques such as bi-layer well diffusion assays and TLC bioautography to determine which compounds effectively inhibit microbial growth."
-
-- name: Plant Extraction and Phytochemical Screening
-  logo: /images/sections/skills/phytochemical.png
-  summary: "Experienced in collecting, processing, and extracting bioactive compounds from plant materials using various solvent systems. Skilled in qualitative phytochemical screening to assess the presence of diverse phytochemical classes."
 
 - name: Perl
   logo: /images/sections/skills/perl.png
