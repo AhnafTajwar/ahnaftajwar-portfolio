@@ -4,7 +4,7 @@
 
 This repository hosts Ahnaf Tajwar's comprehensive portfolio showcasing his professional work, academic projects, and research contributions.
 
-Last date of integrating commits with original repo: 03.06.2024
+Last date of integrating commits with original repo: 14 June 2024
 
 Attributions:
 - <a href="https://www.flaticon.com/free-icons/bioinformatics" title="bioinformatics icons">Bioinformatics icons created by Parzival’ 1997 - Flaticon</a>
