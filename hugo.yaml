@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Ahnaf Tajwar's Portfolio"
+    title: "Ahnaf Tajwar"
     weight: 1
   #bn:
     # languageCode: bn
