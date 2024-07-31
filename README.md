@@ -4,7 +4,7 @@
 
 This repository hosts Ahnaf Tajwar's comprehensive portfolio showcasing his professional work, academic projects, and research contributions.
 
-Last date of integrating commits with original repo: 14 June 2024
+Last date of integrating commits with original repo: 31 July 2024
 
 Attributions:
 - <a href="https://www.flaticon.com/free-icons/bioinformatics" title="bioinformatics icons">Bioinformatics icons created by Parzival’ 1997 - Flaticon</a>
@@ -30,3 +30,4 @@ Attributions:
 - <a href="https://www.flaticon.com/free-icons/server" title="server icons">Server icons created by RaftelDesign - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/meeting" title="meeting icons">Meeting icons created by Freepik - Flaticon</a>
 - <a href="https://www.freepik.com/free-vector/pixel-rain-abstract-background_6283449.htm#fromView=search&page=1&position=0&uuid=793f72e5-5afd-4fd0-a544-c4f8fc843c88">Image by freepik</a>
+- <a href="https://www.freepik.com/icon/teamwork_9015266#fromView=search&page=1&position=18&uuid=c43df154-0c4d-4dcc-be5e-7e67c4f50ba6">Icon by lakonicon</a>

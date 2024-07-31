@@ -88,6 +88,10 @@ skills:
   logo: /images/sections/skills/office-suite.png
   summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft Office and OpenOffice-based suite of office apps."
 
+- name: Project Management
+  logo: /images/sections/skills/collaboration.png
+  summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Trello, ClickUp, and Todoist."
+
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
   summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design."
