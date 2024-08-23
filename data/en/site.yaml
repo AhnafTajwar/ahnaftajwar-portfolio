@@ -22,7 +22,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Ahnaf Tajwar
+  title: Ahnaf Tajwar's Portfolio
   type: website
   description: Portfolio of Ahnaf Tajwar showcasing his professional work, academic projects, and research contributions. 
   image: images/author/ahnaf.png
