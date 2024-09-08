@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Master's Graduate
+designation: M.Sc. Graduate
 # your company information
 company:
   name: University of Dhaka
