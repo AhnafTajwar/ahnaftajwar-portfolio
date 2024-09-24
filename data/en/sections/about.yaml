@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: M.Sc. Graduate
+designation: Research Assistant (Volunteer)
 # your company information
 company:
-  name: University of Dhaka
-  url: "https://du.ac.bd/"
+  name: IDD Special Activities, icddr,b
+  url: "https://www.icddrb.org/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -103,21 +103,6 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Linux
-  percentage: 100
-  color: "#ff6384"
-
-- type: soft-skill-indicator
-  name: Python
-  percentage: 80
-  color: "#36a2eb"
-
-- type: soft-skill-indicator
-  name: R
-  percentage: 80
-  color: "#ffce56"
-
-- type: soft-skill-indicator
   name: Recombinant DNA Technology
   percentage: 75
   color: "#9370db"
@@ -131,6 +116,21 @@ badges:
   name: Phytochemical Extraction
   percentage: 90
   color: "#ff7f50"
+
+- type: soft-skill-indicator
+  name: Linux
+  percentage: 100
+  color: "#ff6384"
+
+- type: soft-skill-indicator
+  name: Python
+  percentage: 80
+  color: "#36a2eb"
+
+- type: soft-skill-indicator
+  name: R
+  percentage: 80
+  color: "#ffce56"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
