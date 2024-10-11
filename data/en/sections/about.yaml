@@ -104,12 +104,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Recombinant DNA Technology
-  percentage: 75
+  percentage: 90
   color: "#9370db"
 
 - type: soft-skill-indicator
   name: Microbial Assays
-  percentage: 80
+  percentage: 95
   color: "#00ff7f"
 
 - type: soft-skill-indicator
@@ -129,7 +129,7 @@ badges:
 
 - type: soft-skill-indicator
   name: R
-  percentage: 80
+  percentage: 90
   color: "#ffce56"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
