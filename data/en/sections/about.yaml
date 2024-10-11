@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Ahnaf Tajwar is a dedicated life science graduate with a Master's in Genetic Engineering and Biotechnology from the University of Dhaka. Currently serving as a Research Assistant at IDD Special Activities, icddr, b, Ahnaf specializes in molecular biology, bioinformatics, and wet lab techniques. His research experience spans microbiological analyses, antimicrobial studies, and functional genomics. Ahnaf has contributed to projects on bacterial virulence and phytochemical properties, co-authoring a paper on hypothetical protein annotation. Driven by a passion for advancing scientific knowledge, he aims to contribute to impactful research while inspiring the next generation of scientists."
+summary: "Ahnaf Tajwar is a dedicated life science graduate with a Master's in Genetic Engineering and Biotechnology from the University of Dhaka. Currently serving as a Research Assistant at IDD Special Activities, icddr,b, Ahnaf specializes in molecular biology, bioinformatics, and wet lab techniques. His research experience spans microbiological analyses, antimicrobial studies, and functional genomics. Ahnaf has contributed to projects on bacterial virulence and phytochemical properties, co-authoring a paper on hypothetical protein annotation. Driven by a passion for advancing scientific knowledge, he aims to contribute to impactful research while inspiring the next generation of scientists."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -104,12 +104,12 @@ badges:
 
 - type: soft-skill-indicator
   name: Recombinant DNA Technology
-  percentage: 75
+  percentage: 90
   color: "#9370db"
 
 - type: soft-skill-indicator
   name: Microbial Assays
-  percentage: 80
+  percentage: 95
   color: "#00ff7f"
 
 - type: soft-skill-indicator
@@ -129,7 +129,7 @@ badges:
 
 - type: soft-skill-indicator
   name: R
-  percentage: 80
+  percentage: 90
   color: "#ffce56"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
