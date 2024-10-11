@@ -50,17 +50,6 @@ experiences:
     responsibilities:
     - Assistance in various research projects, contributing to experimental design, data collection, and data analysis.
     - Mentoring of novice researchers in project-related activities.
-  
-- company:
-    name: Department of Genetic Engineering and Biotechnology, University of Dhaka
-    url: "https://www.du.ac.bd/body/GET"
-    location: Dhaka, Bangladesh
-    logo: /images/sections/experiences/dhaka_university.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: The Department of Genetic Engineering and Biotechnology, University of Dhaka was established in 2001 and is renowned for its academic and research excellence.
-  positions:
   - designation: Thesis Student and Researcher
     start: Aug 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
