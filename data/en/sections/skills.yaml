@@ -5,8 +5,19 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  filter: true
   # Can optionally hide the title in sections
   # hideTitle: true
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Research
+  filter: "research"
+- name: Computer
+  filter: "computer"
+- name: Others
+  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -14,91 +25,112 @@ skills:
 - name: Bioinformatics and Biostatistics
   logo: /images/sections/skills/bioinformatics.png
   summary: "Adroit in using bioinformatics tools like BLAST, MEGA, RaptorX, STRING, and Cytoscape for sequence analysis, phylogenetics, and protein studies. Proficient in statistical analysis with GraphPad Prism and SPSS. Skilled in DNA/primer design and homology modeling software."
+  categories: ["research", "computer"]
 
 - name: Recombinant DNA Technology
   logo: /images/sections/skills/rdna.png
   summary: "Adept at exploiting genetic engineering techniques like PCR, gene cloning, and recombinant protein expression. Skilled in designing and executing experiments for genetic manipulation and generation of transgenic organisms. Versed in operating biotechnology equipment adhering to rigorous biosafety protocols."
+  categories: ["research"]
 
 - name: Microbial Assays
   logo: /images/sections/skills/bacteria.png
   summary: "Able to cultivate bacteria from stock and assess their susceptibility to antimicrobial compounds, utilizing techniques such as bi-layer well diffusion assays and TLC bioautography to determine which compounds effectively inhibit microbial growth."
+  categories: ["research"]
 
 - name: Plant Extraction and Phytochemical Screening
   logo: /images/sections/skills/phytochemical.png
   summary: "Experienced in collecting, processing, and extracting bioactive compounds from plant materials using various solvent systems. Skilled in qualitative phytochemical screening to assess the presence of diverse phytochemical classes."
+  categories: ["research"]
 
 - name: Python
   logo: /images/sections/skills/python.png
   summary: "Experienced in Python programming particularly using IDLE and PyCharm, having solved numerous coding challenges in programming competitions. Familiar with data preprocessing tasks such as dataset cleanup and preparation. Capable of generating insights through graphical visualizations."
   url: "https://www.python.org"
+  categories: ["computer"]
 
 - name: R
   logo: /images/sections/skills/r.png
   summary: "Proficient in handling diverse data variable formats in R. Adept at leveraging RStudio for comprehensive data cleaning and munging. Skilled in visualizing data particularly through ggplot2, effectively communicating data-driven insights via graphs and charts. Can use R Markdown for reproducible reporting and presentations."
   url: "https://www.r-project.org"
+  categories: ["computer"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Extremely familiar with Linux system administration, able to set up and configure traditional and immutable Linux environments from scratch. Can write complex bash and shell scripts. Skilled in command-line operations."
   url: "https://kernel.org"
+  categories: ["computer"]
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Competent in git-based development workflows across GitHub, GitLab, and Bitbucket. More experienced with GitHub for version control, branching strategies, commit management, and collaborative code reviews through pull requests."
   url: "https://git-scm.com/"
+  categories: ["computer"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Hands-on experience with infrastructure and platform services across leading cloud platforms (AWS, GCP, Azure). Deeper expertise in Azure administration and configuration."
+  categories: ["computer"]
 
 - name: Perl
   logo: /images/sections/skills/perl.png
   summary: "Well-versed in Perl with a strong understanding of fundamental concepts including variables, data manipulation (mathematical operations, string operators, etc.), control flow (conditionals, loops), data structures (arrays, hashes), file I/O, regular expressions, and function creation.  Acquainted with lexical scoping and variable scope management."
   url: "https://www.perl.org"
+  categories: ["computer"]
 
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Able to apply basic C/C++ concepts like loops, conditionals, and arrays to solve problems in competitive programming."
+  categories: ["computer"]
 
 - name: SQL
   logo: /images/sections/skills/sql.png
   summary: "Can write SQL queries for data retrieval, manipulation (CRUD - Create, Read, Update, Delete), and analysis."
+  categories: ["computer"]
 
 - name: Writing and Documentation
   logo: /images/sections/skills/creative-writing.png
   summary: "Versatile writer with experience in both academic and creative writing, transcription and translation (English ↔ Bangla), and typesetting. Skilled at crafting compelling content, ensuring clear and effective communication."
+  categories: ["others"]
 
 - name: Prompt Engineering
   logo: /images/sections/skills/artificial-intelligence.png
   summary: "Can input effective prompts for generative AI models like Gemini, Playground, GPT, Claude, DALL-E and Whisper by understanding their capabilities and tailoring prompts to achieve desired results."
+  categories: ["others"]
 
 - name: Beta Testing and Community Support
   logo: /images/sections/skills/bug.png
   summary: "Well-informed in beta testing applications, extracting debug logs, and providing comprehensive feedback to developers. Experienced in offering community support for software products and proven ability to moderate online communities, as demonstrated by the role of moderator for Notesnook, a digital note-taking platform."
+  categories: ["others"]
 
 - name: Virtual Meeting Moderation
   logo: /images/sections/skills/videoconference.png
   summary: "Able to moderate and facilitate online meetings and virtual events using online platforms like Zoom and Google Meet. Skilled in managing participant interactions, screen sharing, breakout rooms, and ensuring a smooth and productive meeting experience for all attendees."
+  categories: ["others"]
 
 - name: Website Development
   logo: /images/sections/skills/webdev.png
   summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience."
+  categories: ["computer"]
 
 - name: Office Suite
   logo: /images/sections/skills/office-suite.png
   summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft Office and OpenOffice-based suite of office apps."
+  categories: ["computer"]
 
 - name: Project Management
   logo: /images/sections/skills/collaboration.png
   summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Notion, Trello, Clickup, Jira and Todoist. More versatile in Asana and Notion."
+  categories: ["others"]
 
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
   summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design."
+  categories: ["others"]
 
 - name: Soft Skills
   logo: /images/sections/skills/soft-skills.png
   summary: "An adaptable, critical thinker gifted at analyzing complexities, finding creative solutions, and collaborating seamlessly with diverse teams to deliver outstanding results while eagerly acquiring new skills."
+  categories: ["others"]
 
 # - name: Kubernetes
 #   logo: /images/sections/skills/kubernetes.png
