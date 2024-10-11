@@ -10,6 +10,12 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Good Clinical Practices Training
+  image: /images/sections/achievements/gcp.png
+  summary: Completed the course on good clinical practices offered by National Drug Abuse Treatment Clinical Trials Network.
+- title: Protecting Human Research Participants Online Training
+  image: /images/sections/achievements/phrp.png
+  summary: Earned certification for protecting human research participants with an online training.
 - title: National Science and Technology Fellowship
   image: /images/sections/achievements/nst-fellowship.jpg
   summary: Recipient of the prestigious National Science and Technology Fellowship from Ministry of Science and Technology, Government of Bangladesh.

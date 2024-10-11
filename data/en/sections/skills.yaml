@@ -64,7 +64,7 @@ skills:
   logo: /images/sections/skills/sql.png
   summary: "Can write SQL queries for data retrieval, manipulation (CRUD - Create, Read, Update, Delete), and analysis."
 
-- name: Writing Skills
+- name: Writing and Documentation
   logo: /images/sections/skills/creative-writing.png
   summary: "Versatile writer with experience in both academic and creative writing, transcription and translation (English ↔ Bangla), and typesetting. Skilled at crafting compelling content, ensuring clear and effective communication."
 

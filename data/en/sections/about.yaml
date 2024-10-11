@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Research Assistant (Volunteer)
+designation: Research Assistant
 # your company information
 company:
   name: IDD Special Activities, icddr,b
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "A capable bioinformatician and aspiring molecular biologist, Ahnaf Tajwar possesses expertise in functional genomics, phytochemical analysis, and evolutionary biology. Holding a Master's degree in Genetic Engineering and Biotechnology from the University of Dhaka, he has published research on protein annotation and virulence prediction. With proficiency in programming, data analysis, and laboratory techniques, he excels in interdisciplinary projects. Ahnaf's diverse skillset, coupled with his critical thinking and collaborative nature, makes him a valuable asset in the field of biotechnology and genomics research."
+summary: "Ahnaf Tajwar is a dedicated life science graduate with a Master's in Genetic Engineering and Biotechnology from the University of Dhaka. Currently serving as a Research Assistant at IDD Special Activities, icddr, b, Ahnaf specializes in molecular biology, bioinformatics, and wet lab techniques. His research experience spans microbiological analyses, antimicrobial studies, and functional genomics. Ahnaf has contributed to projects on bacterial virulence and phytochemical properties, co-authoring a paper on hypothetical protein annotation. Driven by a passion for advancing scientific knowledge, he aims to contribute to impactful research while inspiring the next generation of scientists."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
