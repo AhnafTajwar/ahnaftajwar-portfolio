@@ -23,6 +23,7 @@ buttons:
 projects:
 - name: Analyzing Global Aquaculture Production Trends and Insights
   logo: /images/sections/projects/fish.png
+  # image: /images/sections/projects/toha_website.png
   role: Analytical Case Study
   timeline: "Jan 2024"
   summary: This project explored a fishing dataset to determine the top aquaculture-producing countries from 2014 to 2018, visualizing their production data through graphs. It also discussed the remarkable growth of aquaculture in Bangladesh from 1960 to 2018, highlighting the impact of biotechnology in the industry.

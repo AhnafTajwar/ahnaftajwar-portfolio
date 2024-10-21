@@ -47,7 +47,6 @@ jobs:
       uses: foo-software/lighthouse-check-action@v12.0.1
       id: lighthouseCheck
       with:
-        accessToken: ${{ secrets.LIGHTHOUSE_TOKEN }}
         gitHubAccessToken: ${{secrets.GITHUB_TOKEN}}
         emulatedFormFactor: 'all'
         prCommentEnabled: true
@@ -73,7 +72,7 @@ jobs:
 
     - name: Link Checker
       id: lychee
-      uses: lycheeverse/lychee-action@v1.10.0
+      uses: lycheeverse/lychee-action@v2.0.2
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
