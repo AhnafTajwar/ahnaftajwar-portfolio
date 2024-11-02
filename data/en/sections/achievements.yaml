@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Biosafety and Biosecurity Training
+  image: /images/sections/achievements/biosafety.jpg
+  summary: Successfully finished the three-day extensive theoretical and hands-on annual biosafety and biosecurity training offered by icddr,b Biosafety Office.
 - title: Good Clinical Practices Training
   image: /images/sections/achievements/gcp.png
   summary: Completed the course on good clinical practices offered by National Drug Abuse Treatment Clinical Trials Network.
