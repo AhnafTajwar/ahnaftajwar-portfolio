@@ -28,7 +28,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2024 - Present"
-  summary: This project aims to analyze biomarkers in Non-Hepatocellular Carcinoma patients for accurate, cost-efficient and accelerated diagnosis.
+  summary: Spearheaded blood specimen collection, processing, and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study while managing comprehensive documentation systems. Established efficient digital organization of patient test reports, prescription records, and informed consent forms (ICFs). Implemented standardized procedures for both biological sample handling and document management to ensure optimal specimen integrity and regulatory compliance.
   tags: ["Wet Lab", "Cancer", "Clinical"]
 
 
@@ -37,7 +37,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2023 - 2024"
-  summary: This project explores epigenetic changes in breast cancer patients by comparing them with the data of healthy control.
+  summary: Coordinated documentation management for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Implemented efficient digital filing systems to enhance data accessibility while maintaining regulatory compliance in clinical research documentation.
   tags: ["Wet Lab", "Cancer", "Clinical"]
 
 - name: Analyzing Global Aquaculture Production Trends and Insights
