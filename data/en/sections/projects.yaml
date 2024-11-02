@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Clinical
+  filter: "Clinical"
 - name: Dry Lab
   filter: "Dry Lab"
 - name: Wet Lab
@@ -21,6 +23,23 @@ buttons:
 
 # your projects
 projects:
+- name: Non-HCC Biomarker Analysis Study
+  logo: /images/sections/projects/non-hcc.png
+  # image: /images/sections/projects/toha_website.png
+  role: Clinical Study
+  timeline: "2024 - Present"
+  summary: This project aims to analyze biomarkers in Non-Hepatocellular Carcinoma patients for accurate, cost-efficient and accelerated diagnosis.
+  tags: ["Wet Lab", "Cancer", "Clinical"]
+
+
+- name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
+  logo: /images/sections/projects/pinkribbon.png
+  # image: /images/sections/projects/toha_website.png
+  role: Clinical Study
+  timeline: "2023 - 2024"
+  summary: This project explores epigenetic changes in breast cancer patients by comparing them with the data of healthy control.
+  tags: ["Wet Lab", "Cancer", "Clinical"]
+
 - name: Analyzing Global Aquaculture Production Trends and Insights
   logo: /images/sections/projects/fish.png
   # image: /images/sections/projects/toha_website.png
