@@ -30,6 +30,7 @@ Attributions:
 - <a href="https://www.flaticon.com/free-icons/server" title="server icons">Server icons created by RaftelDesign - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/meeting" title="meeting icons">Meeting icons created by Freepik - Flaticon</a>
 - <a href="https://www.freepik.com/free-vector/pixel-rain-abstract-background_6283449.htm#fromView=search&page=1&position=0&uuid=793f72e5-5afd-4fd0-a544-c4f8fc843c88">Image by freepik</a>
-- <a href="https://www.freepik.com/icon/teamwork_9015266#fromView=search&page=1&position=18&uuid=c43df154-0c4d-4dcc-be5e-7e67c4f50ba6">Icon by lakonicon</a>
+- <a href="https://www.freepik.com/icon/partnership_2589792#fromView=keyword&page=1&position=12&uuid=51e33848-8e7a-4fd0-b9af-3a1bd1ec636c">Icon by Nhor Phai</a>
 - <a href="https://www.freepik.com/search">Icon by IconMarketPK</a>
 - <a href="https://www.freepik.com/icon/liver-cancer_2448410#fromView=search&page=1&position=37&uuid=030173d1-5736-4f02-b9d7-08d80bc352e1">Icon by Freepik</a>
+- <a href="https://www.freepik.com/icon/network_10283949#fromView=search&page=1&position=6&uuid=53c03512-92ce-450e-b4b5-d88dabe043ad">Icon by ranksol graphics</a>

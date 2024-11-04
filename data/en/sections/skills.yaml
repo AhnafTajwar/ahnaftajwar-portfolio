@@ -122,6 +122,11 @@ skills:
   summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Notion, Trello, Clickup, Jira and Todoist. More versatile in Asana and Notion."
   categories: ["others"]
 
+- name: Workplace Email & Collaboration Management
+  logo: /images/sections/skills/workspace.png
+  summary: "Skilled in managing users, emails, collaboration tools, and secure storage on platforms like Microsoft 365 and Zoho Workplace. Proficient in configuring permissions and workflows to enhance team productivity, with the business email linked to this portfolio as an example of professional setup."
+  categories: ["computer"]
+
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
   summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design."
