@@ -23,14 +23,29 @@ buttons:
 
 # your projects
 projects:
+- name: A Randomized, Double-Blind, Placebo-Controlled, Safety, Tolerability and Pharmacokinetic Phase I Study of Escalating Single Doses of VPO-227 in Healthy Volunteers
+  logo: /images/sections/projects/cholera.png
+  # image: /images/sections/projects/toha_website.png
+  role: Clinical Trial
+  timeline: "2024 - Present"
+  summary: Supported the clinical trial by collaborating with team members for developing informed consent forms (ICFs) and establishing protocols for blood, urine, and stool sample collection. Designed labeling for sample collection containers to ensure accurate identification and handling. Conducted a thorough count of required logistics items, compiling a detailed inventory list to facilitate smooth trial operations.
+  tags: ["Wet Lab", "Drug", "Clinical"]
+
+- name: The AWaRe1 pragmatic cluster-randomised trial, economic evaluation and process evaluation of antibiotic stewardship in primary healthcare of acute respiratory infections in low- and middle- income countries using the WHO AWaRe system (AWaRe1-Trial)
+  logo: /images/sections/projects/pills.png
+  # image: /images/sections/projects/toha_website.png
+  role: Clinical Trial
+  timeline: "2024 - Present"
+  summary: Translated key documents and questionnaires to Bangla to support localization for Upazila Health Complexes and offices. Compiled a list of senior officers as potential advisors and identified Upazila Health Complex workers in need of training, alongside creating a detailed map of facility locations.
+  tags: ["Wet Lab", "Drug", "Clinical"]
+
 - name: Non-HCC Biomarker Analysis Study
   logo: /images/sections/projects/non-hcc.png
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2024 - Present"
-  summary: Spearheaded blood specimen collection, processing, and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study while managing comprehensive documentation systems. Established efficient digital organization of patient test reports, prescription records, and informed consent forms (ICFs). Implemented standardized procedures for both biological sample handling and document management to ensure optimal specimen integrity and regulatory compliance.
+  summary: Spearheaded blood specimen processing and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study while managing comprehensive documentation systems. Established efficient digital organization of patient test reports, prescription records, and informed consent forms (ICFs). Implemented standardized procedures for both biological sample handling and document management to ensure optimal specimen integrity and regulatory compliance.
   tags: ["Wet Lab", "Cancer", "Clinical"]
-
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
   logo: /images/sections/projects/pinkribbon.png

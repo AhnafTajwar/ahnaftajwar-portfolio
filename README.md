@@ -34,3 +34,5 @@ Attributions:
 - <a href="https://www.freepik.com/search">Icon by IconMarketPK</a>
 - <a href="https://www.freepik.com/icon/liver-cancer_2448410#fromView=search&page=1&position=37&uuid=030173d1-5736-4f02-b9d7-08d80bc352e1">Icon by Freepik</a>
 - <a href="https://www.freepik.com/icon/network_10283949#fromView=search&page=1&position=6&uuid=53c03512-92ce-450e-b4b5-d88dabe043ad">Icon by ranksol graphics</a>
+- <a href="https://www.freepik.com/icon/pills_822092#fromView=search&page=1&position=23&uuid=f847effc-a967-4f36-aa33-194be3deda66">Icon by Freepik</a>
+- <a href="https://www.freepik.com/icon/diarrhea_7350779#fromView=search&page=1&position=64&uuid=e2c163d3-8469-4699-8c1d-71a31c608f3a">Icon by Freepik</a>
