@@ -103,6 +103,11 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
+  name: Clinical Research
+  percentage: 90
+  color: "#ff7f50"
+
+- type: soft-skill-indicator
   name: Recombinant DNA Technology
   percentage: 90
   color: "#9370db"
@@ -111,11 +116,6 @@ badges:
   name: Microbial Assays
   percentage: 95
   color: "#00ff7f"
-
-- type: soft-skill-indicator
-  name: Phytochemical Extraction
-  percentage: 90
-  color: "#ff7f50"
 
 - type: soft-skill-indicator
   name: Linux
