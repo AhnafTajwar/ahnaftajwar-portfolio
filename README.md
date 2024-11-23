@@ -4,7 +4,7 @@
 
 This repository hosts Ahnaf Tajwar's comprehensive portfolio showcasing his professional work, academic projects, and research contributions.
 
-Last date of integrating commits from original repo: 21 October 2024 (#346)
+Last date of integrating commits from original repo: 23 November 2024 (#351)
 
 Attributions:
 - <a href="https://www.flaticon.com/free-icons/bioinformatics" title="bioinformatics icons">Bioinformatics icons created by Parzival’ 1997 - Flaticon</a>
@@ -36,3 +36,5 @@ Attributions:
 - <a href="https://www.freepik.com/icon/network_10283949#fromView=search&page=1&position=6&uuid=53c03512-92ce-450e-b4b5-d88dabe043ad">Icon by ranksol graphics</a>
 - <a href="https://www.freepik.com/icon/pills_822092#fromView=search&page=1&position=23&uuid=f847effc-a967-4f36-aa33-194be3deda66">Icon by Freepik</a>
 - <a href="https://www.freepik.com/icon/diarrhea_7350779#fromView=search&page=1&position=64&uuid=e2c163d3-8469-4699-8c1d-71a31c608f3a">Icon by Freepik</a>
+- <a href="https://www.flaticon.com/free-icons/vaccine" title="vaccine icons">Vaccine icons created by itim2101 - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/clinical-trials" title="clinical trials icons">Clinical trials icons created by Dewi Sari - Flaticon</a>

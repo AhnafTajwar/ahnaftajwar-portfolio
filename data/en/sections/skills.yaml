@@ -22,6 +22,16 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Clinical Trials and Translational Research
+  logo: /images/sections/skills/clinical-trials.png
+  summary: "Experienced in designing and implementing Phase I-IV clinical trials, evaluating therapeutic efficacy and safety, and ensuring regulatory compliance and ethical considerations. Adept at translational research from bench to bedside, as well as developing effective patient recruitment and retention strategies."
+  categories: ["research"]
+
+- name: Drug and Vaccine Development
+  logo: /images/sections/skills/vaccine.png
+  summary: "Proficient in screening and identifying drug candidates through high-throughput techniques, designing and executing in vitro and in vivo efficacy and toxicity studies, and developing innovative drug delivery systems. Versed in antigen discovery and vaccine design, as well as conducting comprehensive immunogenicity and safety assessments."
+  categories: ["research"]
+
 - name: Bioinformatics and Biostatistics
   logo: /images/sections/skills/bioinformatics.png
   summary: "Adroit in using bioinformatics tools like BLAST, MEGA, RaptorX, STRING, and Cytoscape for sequence analysis, phylogenetics, and protein studies. Proficient in statistical analysis with GraphPad Prism and SPSS. Skilled in DNA/primer design and homology modeling software."
@@ -109,7 +119,7 @@ skills:
 
 - name: Website Development
   logo: /images/sections/skills/webdev.png
-  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience."
+  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience. Decent knowledge of the Flask micro-framework."
   categories: ["computer"]
 
 - name: Office Suite
@@ -119,7 +129,7 @@ skills:
 
 - name: Project Management
   logo: /images/sections/skills/collaboration.png
-  summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Notion, Trello, Clickup, Jira and Todoist. More versatile in Asana and Notion."
+  summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Notion, Trello, Clickup, Jira and Todoist. More versatile in Todoist, Asana and Notion."
   categories: ["others"]
 
 - name: Workplace Email & Collaboration Management
@@ -129,7 +139,7 @@ skills:
 
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
-  summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design."
+  summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design. Fluent in Affinity Creative Suite."
   categories: ["others"]
 
 - name: Soft Skills
