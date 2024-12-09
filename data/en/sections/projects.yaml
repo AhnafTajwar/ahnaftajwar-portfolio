@@ -31,7 +31,7 @@ projects:
   summary: Supported the clinical trial by collaborating with team members for developing informed consent forms (ICFs) and establishing protocols for blood, urine, and stool sample collection. Designed labeling for sample collection containers to ensure accurate identification and handling. Conducted a thorough count of required logistics items, compiling a detailed inventory list to facilitate smooth trial operations.
   tags: ["Wet Lab", "Drug", "Clinical"]
 
-- name: The AWaRe1 pragmatic cluster-randomised trial, economic evaluation and process evaluation of antibiotic stewardship in primary healthcare of acute respiratory infections in low- and middle- income countries using the WHO AWaRe system (AWaRe1-Trial)
+- name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWarRe system — the AWaRe 1 Trial
   logo: /images/sections/projects/pills.png
   # image: /images/sections/projects/toha_website.png
   role: Clinical Trial
@@ -52,7 +52,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2023 - 2024"
-  summary: Coordinated documentation management for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Implemented efficient digital filing systems to enhance data accessibility while maintaining regulatory compliance in clinical research documentation.
+  summary: Coordinated documentation management for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Implemented efficient digital filing systems to enhance data accessibility while maintaining regulatory compliance in clinical research documentation. Verified sample integrity and sorting for shipment preparation.
   tags: ["Wet Lab", "Cancer", "Clinical"]
 
 - name: Analyzing Global Aquaculture Production Trends and Insights
