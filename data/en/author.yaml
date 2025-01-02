@@ -7,7 +7,7 @@ image: "images/author/ahnaf.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ahnaf@ahnaftajwar.com"
-  # phone: "+8809697691647"
+  phone: "+8809697691647"
   github: AhnafTajwar
   linkedin: ahnaf-tajwar-226122223
   researchgate: Ahnaf-Tajwar
@@ -19,10 +19,6 @@ contactInfo:
     icon: x-twitter
     url: https://x.com/hnaftajwar
     text: hnaftajwar
-  mobile:
-    icon: phone
-    url: "tel:+8809697691647"
-    text: "+8809697691647"
   # discord:
   #   icon: discord
   #   url: https://discord.com/users/988740772180414464
