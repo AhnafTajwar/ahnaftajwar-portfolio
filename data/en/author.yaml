@@ -15,7 +15,7 @@ contactInfo:
     icon: telegram
     url: "https://t.me/ahnaftajwar"
     text: "Ahnaf Tajwar"
-  "X (formerly Twitter)"":
+  x-twitter:
     icon: x-twitter
     url: "https://x.com/hnaftajwar"
     text: "hnaftajwar"
