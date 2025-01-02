@@ -15,14 +15,18 @@ contactInfo:
     icon: telegram
     url: https://t.me/ahnaftajwar
     text: ahnaftajwar
+  discord:
+    icon: discord
+    url: "https://discord.com/users/988740772180414464"
+    text: "ahnaf.tajwar"
   x-twitter:
     icon: x-twitter
     url: https://x.com/hnaftajwar
     text: hnaftajwar
-  messenger:
-    icon: facebook-messenger
-    url: "https://m.me/hnftjwr"
-    text: "Ahnaf Tajwar"
+  # messenger:
+  #   icon: facebook-messenger
+  #   url: "https://m.me/hnftjwr"
+  #   text: "Ahnaf Tajwar"
 
 # some summary about what you do
 summary:
