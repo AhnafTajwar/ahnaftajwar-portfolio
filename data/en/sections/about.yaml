@@ -48,9 +48,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/AhnafTajwar"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/hnaftajwar"
+- name: X (formerly Twitter)
+  icon: "fab x-twitter"
+  url: "https://x.com/hnaftajwar"
 
 # - name: GitLab
 #   icon: "fab fa-gitlab"
