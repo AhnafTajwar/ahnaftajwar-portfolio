@@ -19,22 +19,15 @@ contactInfo:
     icon: x-twitter
     url: https://x.com/hnaftajwar
     text: hnaftajwar
-  discord:
-    weight: 7
-    icon: discord
-    url: https://discord.com/users/988740772180414464
-    text: ahnaf.tajwar
-  # messenger:
-  #   icon: facebook-messenger
-  #   url: "https://m.me/hnftjwr"
-  #   text: "Ahnaf Tajwar"
+  messenger:
+    icon: facebook-messenger
+    url: "https://m.me/hnftjwr"
+    text: "Ahnaf Tajwar"
 
 # some summary about what you do
 summary:
   - Clinical Research Assistant
   - Master's Graduate
   - Computational Biologist
-  - Genomics Researcher
   - Microbiologist
-  - Biotech Data Analyst
   - Writer/Translator
