@@ -6,26 +6,16 @@ greeting: "Science. Dreams. And everything in between. Meet"
 image: "images/author/ahnaf.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email:
-    weight: 1
-    text: "ahnaf@ahnaftajwar.com"
+  email: "ahnaf@ahnaftajwar.com"
   #phone: "+0123456789"
-  github:
-    weight: 2
-    text: AhnafTajwar
-  linkedin:
-    weight: 3
-    text: ahnaf-tajwar-226122223
-  researchgate:
-    weight: 4
-    text: Ahnaf-Tajwar
+  github: AhnafTajwar
+  linkedin: ahnaf-tajwar-226122223
+  researchgate: Ahnaf-Tajwar
   telegram:
-    weight: 5
     icon: telegram
     url: https://t.me/ahnaftajwar
     text: ahnaftajwar
   x-twitter:
-    weight: 6
     icon: x-twitter
     url: https://x.com/hnaftajwar
     text: hnaftajwar
@@ -34,24 +24,6 @@ contactInfo:
     icon: discord
     url: https://discord.com/users/988740772180414464
     text: ahnaf.tajwar
-# contactInfo:
-#   email: "ahnaf@ahnaftajwar.com"
-#   #phone: "+0123456789"
-#   github: AhnafTajwar
-#   linkedin: ahnaf-tajwar-226122223
-#   researchgate: Ahnaf-Tajwar
-#   telegram:
-#     icon: telegram
-#     url: https://t.me/ahnaftajwar
-#     text: ahnaftajwar
-#   x-twitter:
-#     icon: x-twitter
-#     url: https://x.com/hnaftajwar
-#     text: hnaftajwar
-#   discord:
-#     icon: discord
-#     url: https://discord.com/users/988740772180414464
-#     text: ahnaf.tajwar
   # messenger:
   #   icon: facebook-messenger
   #   url: "https://m.me/hnftjwr"
