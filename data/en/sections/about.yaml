@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Ahnaf Tajwar is a dedicated life science graduate with a Master's in Genetic Engineering and Biotechnology from the University of Dhaka. Currently serving as a Research Assistant at IDD Special Activities, icddr,b, Ahnaf specializes in molecular biology, bioinformatics, and wet lab techniques. His research experience spans microbiological analyses, antimicrobial studies, and functional genomics. Ahnaf has contributed to projects on bacterial virulence and phytochemical properties, co-authoring a paper on hypothetical protein annotation. Driven by a passion for advancing scientific knowledge, he aims to contribute to impactful research while inspiring the next generation of scientists."
+summary: "Ahnaf Tajwar is a passionate and accomplished life sciences professional, holding degrees in Genetic Engineering and Biotechnology from the University of Dhaka. Currently advancing his career as a Research Assistant in the IDD Special Activities Unit at icddr,b, he applies his expertise in molecular biology, bioinformatics, and wet lab techniques to a range of groundbreaking projects. Ahnaf participates in conducting clinical trials and has contributed to diagnostic method development, bacterial virulence studies, and investigations into the phytochemical properties of plant extracts. Beyond the laboratory, Ahnaf has a profound interest in software and the digital world, further enriching his interdisciplinary skill set. With an neverending ambition for advancing scientific knowledge, Ahnaf aspires to contribute to impactful research that addresses global challenges while mentoring and inspiring the next generation of scientists."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -105,32 +105,47 @@ badges:
 - type: soft-skill-indicator
   name: Clinical Research
   percentage: 90
-  color: "#ff7f50"
+  color: "#E63946"
 
 - type: soft-skill-indicator
   name: Recombinant DNA Technology
   percentage: 90
-  color: "#9370db"
+  color: "#F4A261"
 
 - type: soft-skill-indicator
   name: Microbial Assays
   percentage: 95
-  color: "#00ff7f"
+  color: "#FFE66D"
+
+- type: soft-skill-indicator
+  name: Human Sample Processsing
+  percentage: 90
+  color: "#457B9D"
+
+- type: soft-skill-indicator
+  name: Drug Development
+  percentage: 85
+  color: "#1D3557"
+
+- type: soft-skill-indicator
+  name: Writing and Documentation
+  percentage: 95
+  color: "#A8DADC"
 
 - type: soft-skill-indicator
   name: Linux
   percentage: 100
-  color: "#ff6384"
+  color: "#6A4C93"
 
 - type: soft-skill-indicator
   name: Python
   percentage: 80
-  color: "#36a2eb"
+  color: "#FF6F61"
 
 - type: soft-skill-indicator
   name: R
   percentage: 90
-  color: "#ffce56"
+  color: "#2A9D8F"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
