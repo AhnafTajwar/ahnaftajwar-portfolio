@@ -28,7 +28,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Trial
   timeline: "2024 - Present"
-  summary: Supported the clinical trial by collaborating with team members for developing informed consent forms (ICFs) and establishing protocols for blood, urine, and stool sample collection as well as equipment disinfection and waste management. Designed labeling for sample collection containers to ensure accurate identification and handling. Conducted a thorough count of required logistics items, compiling a detailed inventory list to facilitate smooth clinical trial operations. Monitored the investigational product temperature to ensure integrity.
+  summary: "Contributed to the clinical trial by collaborating on the development of informed consent forms (ICFs) and establishing protocols for sample handling (blood, urine, stool), equipment disinfection, and waste management. Created labeling for sample containers for accurate identification and handling. Conducted a thorough inventory of necessary logistics, compiling a detailed list for smooth trial operation. Oversaw investigational product temperature monitoring to preserve its integrity."
   tags: ["Wet Lab", "Drug", "Clinical"]
 
 - name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWarRe system — the AWaRe 1 Trial
@@ -36,7 +36,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Trial
   timeline: "2024 - Present"
-  summary: Translated key documents and questionnaires to Bangla to support localization for Upazila Health Complexes and offices. Compiled a list of senior officers as potential advisors and identified Upazila Health Complex workers in need of training, alongside creating a detailed map of facility locations.
+  summary: "Facilitated localization for Upazila Health Complexes and offices by translating key documents and questionnaires into Bangla. Assembled a list of senior officers as potential advisors and identified Upazila Health Complex workers requiring training. Produced a detailed map of facility locations."
   tags: ["Wet Lab", "Drug", "Clinical"]
 
 - name: Non-HCC Biomarker Analysis Study
@@ -44,7 +44,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2024 - Present"
-  summary: Participated in blood specimen processing and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study while managing comprehensive documentation systems. Established efficient digital organization of patient test reports, prescription records, and informed consent forms (ICFs). Implemented standardized procedures for both biological sample handling and document management to ensure optimal specimen integrity and regulatory compliance.
+  summary: "Took part in blood specimen processing and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study, coupled with managing comprehensive documentation systems. Organized patient test reports, prescription records, and informed consent forms (ICFs) digitally for efficient access. Standardized procedures for both biological sample handling and document management, ensuring optimal specimen integrity and adherence to regulations."
   tags: ["Wet Lab", "Cancer", "Clinical"]
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
@@ -52,7 +52,7 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Clinical Study
   timeline: "2023 - 2024"
-  summary: Coordinated documentation management for an epigenetic breast cancer research study, systematically organizing informed consent forms (ICFs) and patient prescription records. Implemented efficient digital filing systems to enhance data accessibility. Verified sample integrity and sorted samples for shipment preparation.
+  summary: "Managed documentation for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Established digital filing systems to improve data accessibility. Confirmed sample integrity and sorted samples in preparation for shipment."
   tags: ["Wet Lab", "Cancer", "Clinical"]
 
 - name: Analyzing Global Aquaculture Production Trends and Insights
@@ -60,35 +60,35 @@ projects:
   # image: /images/sections/projects/toha_website.png
   role: Analytical Case Study
   timeline: "Jan 2024"
-  summary: This project explored a fishing dataset to determine the top aquaculture-producing countries from 2014 to 2018, visualizing their production data through graphs. It also discussed the remarkable growth of aquaculture in Bangladesh from 1960 to 2018, highlighting the impact of biotechnology in the industry.
+  summary: "This project investigated a fishing dataset to identify the top aquaculture-producing countries from 2014 to 2018, visualizing their production data using graphs. It also examined the significant growth of aquaculture in Bangladesh from 1960 to 2018, emphasizing the role of biotechnology in the industry's expansion."
   tags: ["Dry Lab", "Aquaculture", "R", "Fishing"]
 
 - name: Evaluation of Phytochemical Properties and In Vitro Antimicrobial Activity of Costus woodsonii Extracts
   logo: /images/sections/projects/woodsonii.png
   role: Masters Thesis Project
   timeline: "Aug 2023 - Jan 2024"
-  summary: "Prepared ethyl acetate extracts from powdered leaves, stems and roots of *Costus woodsonii* and analyzed their phytochemical composition and potential antimicrobial activity against six pathogenic bacteria through bi-layer diffusion assay and TLC bioautography assay."
+  summary: "Generated ethyl acetate extracts from powdered leaves, stems, and roots of *Costus woodsonii*. Subsequently, analyzed their phytochemical composition and assessed their potential antimicrobial activity against six pathogenic bacteria using bi-layer diffusion and TLC bioautography assays."
   tags: ["Wet Lab", "Phytochemistry", "Microbiology", "Antimicrobials", "TLC"]
 
 - name: Exploring the Virulence of Tsukamurella paurometabola Through Functional Annotation of Hypothetical Proteins
   logo: /images/sections/projects/protein.png
   role: Bachelor's Project
   timeline: "Aug 2021 - Sep 2022"
-  summary: "Retrieved protein sequences of *Tsukamurella paurometabola* and after curation of the hypothetical proteins, carried out the functional annotation and virulence prediction."
+  summary: "Retrieved protein sequences of *Tsukamurella paurometabola*, curated the hypothetical proteins, and performed functional annotation and virulence prediction."
   tags: ["Dry Lab", "Bioinformatics", "Microbiology", "Virulence"]
 
 - name: Functional Annotation of Hypothetical Proteins From the Enterobacter cloacae B13 Strain and Its Association With Pathogenicity
   logo: /images/sections/projects/protein2.png
   role: Research Project
   timeline: "Aug 2021 - Sep 2022"
-  summary: "Assisted with data collection and processing of functional annotation and virulence analysis of hypothetical proteins of *Enterobacter cloacae* B13 Strain."
+  summary: "Supported data collection and processing for functional annotation and virulence analysis of hypothetical proteins of *Enterobacter cloacae* B13 Strain."
   tags: ["Dry Lab", "Bioinformatics", "Microbiology", "Virulence"]
 
 - name: Development of This Portfolio Website Using Hugo
   logo: /images/sections/projects/portfolio-development.png
   role: Website Development
   timeline: "Apr 2024 - Present"
-  summary: "Developed and deployed this portfolio using the Hugo framework, GitHub and Netlify."
+  summary: "Developed and deployed this portfolio using the Hugo framework, GitHub, and Netlify."
   tags: ["Miscellaneous", "Portfolio", "Website", "Hugo"]
 
 - name: Creation and Maintenance of A Personal Blog Using Wordpress
@@ -96,7 +96,7 @@ projects:
   role: Website Development
   timeline: "Apr 2024 - Present"
   url: https://ahnaftajwar.wordpress.com
-  summary: "Design and maintenance of a personal blog using WordPress and JetPack site builder with periodical posts."
+  summary: "Design and maintenance of a personal blog using WordPress and JetPack site builder, featuring periodical posts."
   tags: ["Miscellaneous", "Writing", "Website", "WordPress"]
 
 ##### I (Ahnaf) will be using roles as subtitles instead.
