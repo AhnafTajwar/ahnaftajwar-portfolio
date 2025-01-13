@@ -24,127 +24,127 @@ buttons:
 skills:
 - name: Clinical Trials and Translational Research
   logo: /images/sections/skills/clinical-trials.png
-  summary: "Experienced in designing and implementing Phase I-IV clinical trials, evaluating therapeutic efficacy and safety, and ensuring regulatory compliance and ethical considerations. Adept at translational research from bench to bedside, as well as developing effective patient recruitment and retention strategies. Able to use digital clinical data management and acquisition systems."
+  summary: "Seasoned in all phases of clinical trials (I-IV), from design to implementation, ensuring efficacy, safety, and regulatory adherence. Bridges the gap between lab discoveries and real-world patient care, optimizing recruitment and retention strategies. Strong command of digital clinical data management."
   categories: ["research"]
 
 - name: Drug and Vaccine Development
   logo: /images/sections/skills/vaccine.png
-  summary: "Proficient in screening and identifying drug candidates through high-throughput techniques, designing and executing in vitro and in vivo efficacy and toxicity studies, and developing innovative drug delivery systems. Versed in antigen discovery and vaccine design, as well as conducting comprehensive immunogenicity and safety assessments."
+  summary: "Expert in drug candidate screening using high-throughput methods, and in designing and executing in vitro/in vivo studies. Proven track record in antigen discovery, vaccine design, and comprehensive immunogenicity and safety evaluation."
   categories: ["research"]
 
 - name: Bioinformatics and Biostatistics
   logo: /images/sections/skills/bioinformatics.png
-  summary: "Adroit in using bioinformatics tools like BLAST, MEGA, RaptorX, STRING, and Cytoscape for sequence analysis, phylogenetics, and protein studies. Proficient in statistical analysis with GraphPad Prism and SPSS. Skilled in DNA/primer design and homology modeling software."
+  summary: "Proficient with bioinformatics tools (BLAST, MEGA, RaptorX, STRING, Cytoscape) for sequence analysis, phylogenetics, and protein studies. Skilled in statistical analysis using GraphPad Prism and SPSS. Familiar with DNA/primer design and homology modeling."
   categories: ["research", "computer"]
 
 - name: Recombinant DNA Technology
   logo: /images/sections/skills/rdna.png
-  summary: "Adept at exploiting genetic engineering techniques like PCR, gene cloning, and recombinant protein expression. Skilled in designing and executing experiments for genetic manipulation and generation of transgenic organisms. Versed in operating biotechnology equipment adhering to rigorous biosafety protocols."
+  summary: "Mastery of genetic engineering techniques including PCR, gene cloning, and recombinant protein expression. Capable in designing experiments for genetic manipulation and creating transgenic organisms. Strict adherence to biosafety protocols in all biotech operations."
   categories: ["research"]
 
 - name: Microbial Assays
   logo: /images/sections/skills/bacteria.png
-  summary: "Able to cultivate bacteria from stock and assess their susceptibility to antimicrobial compounds, utilizing techniques such as bi-layer well diffusion assays and TLC bioautography to determine which compounds effectively inhibit microbial growth."
+  summary: "Accomplished in bacterial cultivation and antimicrobial susceptibility testing. Well-versed in techniques like bi-layer well diffusion assays and TLC bioautography to identify effective antimicrobial compounds."
   categories: ["research"]
 
 - name: Plant Extraction and Phytochemical Screening
   logo: /images/sections/skills/phytochemical.png
-  summary: "Experienced in collecting, processing, and extracting bioactive compounds from plant materials using various solvent systems. Skilled in qualitative phytochemical screening to assess the presence of diverse phytochemical classes."
+  summary: "Expert in the extraction of bioactive compounds from plant materials using various solvent systems. Highly capable in qualitative phytochemical screening to identify diverse phytochemical classes."
   categories: ["research"]
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Experienced in Python programming particularly using IDLE and PyCharm, having solved numerous coding challenges in programming competitions. Familiar with data preprocessing tasks such as dataset cleanup and preparation. Capable of generating insights through graphical visualizations."
+  summary: "Adept in Python using IDLE and PyCharm, with a background in programming competitions. Strong in data preprocessing and insightful data visualization."
   url: "https://www.python.org"
   categories: ["computer"]
 
 - name: R
   logo: /images/sections/skills/r.png
-  summary: "Proficient in handling diverse data variable formats in R. Adept at leveraging RStudio for comprehensive data cleaning and munging. Skilled in visualizing data particularly through ggplot2, effectively communicating data-driven insights via graphs and charts. Can use R Markdown for reproducible reporting and presentations."
+  summary: "Skilled at data handling, cleaning, and visualization in R, leveraging RStudio and ggplot2. Comfortable using R Markdown for reproducible reporting."
   url: "https://www.r-project.org"
   categories: ["computer"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Extremely familiar with Linux system administration, able to set up and configure traditional and immutable Linux environments from scratch. Can write complex bash and shell scripts. Skilled in command-line operations."
+  summary: "Highly versed in Linux system administration, from setup to configuration of both traditional and immutable environments. Proficient in writing complex bash/shell scripts and skilled in command-line operations."
   url: "https://kernel.org"
   categories: ["computer"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Competent in git-based development workflows across GitHub, GitLab, and Bitbucket. More experienced with GitHub for version control, branching strategies, commit management, and collaborative code reviews through pull requests."
+  summary: "Seasoned in Git workflows across GitHub, GitLab, and Bitbucket, with significant background in GitHub for version control, branching, and collaborative code reviews via pull requests."
   url: "https://git-scm.com/"
   categories: ["computer"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Hands-on experience with infrastructure and platform services across leading cloud platforms (AWS, GCP, Azure). Deeper expertise in Azure administration and configuration."
+  summary: "Familiar with cloud platforms (AWS, GCP, Azure), with a particular focus on Azure administration and configuration."
   categories: ["computer"]
 
 - name: Perl
   logo: /images/sections/skills/perl.png
-  summary: "Well-versed in Perl with a strong understanding of fundamental concepts including variables, data manipulation (mathematical operations, string operators, etc.), control flow (conditionals, loops), data structures (arrays, hashes), file I/O, regular expressions, and function creation.  Acquainted with lexical scoping and variable scope management."
+  summary: "Solid command of Perl fundamentals, including variables, data manipulation, control flow, data structures, file I/O, regex, and functions. Acquainted with lexical scoping."
   url: "https://www.perl.org"
   categories: ["computer"]
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Able to apply basic C/C++ concepts like loops, conditionals, and arrays to solve problems in competitive programming."
+  summary: "Able to apply basic C/C++ concepts (loops, conditionals, arrays) to solve problems in competitive programming contexts."
   categories: ["computer"]
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Can write SQL queries for data retrieval, manipulation (CRUD - Create, Read, Update, Delete), and analysis."
+  summary: "Proficient in writing SQL queries for data retrieval, manipulation (CRUD), and analysis."
   categories: ["computer"]
 
 - name: Writing and Documentation
   logo: /images/sections/skills/creative-writing.png
-  summary: "Versatile writer with experience in both academic and creative writing, transcription and translation (English ↔ Bangla), and typesetting. Skilled at crafting compelling content, ensuring clear and effective communication."
+  summary: "Versatile writer with skills in academic and creative writing, transcription, translation (English ↔ Bangla), and typesetting. Committed to crafting clear, compelling, and effective content."
   categories: ["others"]
 
 - name: Prompt Engineering
   logo: /images/sections/skills/artificial-intelligence.png
-  summary: "Can input effective prompts for generative AI models like Gemini, Playground, GPT, Claude, DALL-E and Whisper by understanding their capabilities and tailoring prompts to achieve desired results."
+  summary: "Practiced in crafting effective prompts for generative AI models (Gemini, Playground, GPT, Claude, DALL-E, Whisper), tailoring inputs to achieve desired outputs."
   categories: ["others"]
 
 - name: Beta Testing and Community Support
   logo: /images/sections/skills/bug.png
-  summary: "Well-informed in beta testing applications, extracting debug logs, and providing comprehensive feedback to developers. Experienced in offering community support for software products and proven ability to moderate online communities, as demonstrated by the role of moderator for Notesnook, a digital note-taking platform."
+  summary: "Background in beta testing, debugging, and providing detailed feedback to developers. Demonstrated ability in community support and online moderation, exemplified by moderating for Notesnook."
   categories: ["others"]
 
 - name: Virtual Meeting Moderation
   logo: /images/sections/skills/videoconference.png
-  summary: "Able to moderate and facilitate online meetings and virtual events using online platforms like Zoom and Google Meet. Skilled in managing participant interactions, screen sharing, breakout rooms, and ensuring a smooth and productive meeting experience for all attendees."
+  summary: "Capable of moderating virtual meetings and events on platforms like Zoom and Google Meet, managing participant interactions and ensuring smooth, productive sessions."
   categories: ["others"]
 
 - name: Website Development
   logo: /images/sections/skills/webdev.png
-  summary: "Can build and deploy simple, clean, and performant static sites with Hugo (like this very portfolio) and Netlify alongside leveraging WordPress to build dynamic websites (such as Ahnaf's personal blog) with a focus on design, functionality, and user experience. Decent knowledge of the Flask micro-framework."
+  summary: "Able to build and deploy clean, performant static sites with Hugo and Netlify (like this portfolio), and dynamic sites with WordPress. Focused on design, functionality, and user experience. Some knowledge of the Flask microframework."
   categories: ["computer"]
 
 - name: Office Suite
   logo: /images/sections/skills/office-suite.png
-  summary: "Efficient with the creation of high-quality documents, presentations and spreadsheets in Microsoft Office and OpenOffice-based suite of office apps."
+  summary: "Efficient in creating high-quality documents, presentations, and spreadsheets using Microsoft Office and OpenOffice-based suites."
   categories: ["computer"]
 
 - name: Project Management
   logo: /images/sections/skills/collaboration.png
-  summary: "Experienced in utilizing project management and team collaboration tools such as Asana, Notion, Trello, Clickup, Jira and Todoist. More versatile in Todoist, Asana and Notion."
+  summary: "Familiar with project management tools like Asana, Notion, Trello, ClickUp, Jira, and Todoist. Particularly practiced with Todoist, Asana, and Notion."
   categories: ["others"]
 
 - name: Workplace Email & Collaboration Management
   logo: /images/sections/skills/workspace.png
-  summary: "Skilled in managing users, emails, collaboration tools, and secure storage on platforms like Microsoft 365 and Zoho Workplace. Proficient in configuring permissions and workflows to enhance team productivity, with the business email linked to this portfolio as an example of professional setup."
+  summary: "Well-versed in managing users, emails, and collaboration tools on Microsoft 365 and Zoho Workplace. Able to configure permissions and workflows to boost team productivity, as demonstrated by the business email setup for this portfolio."
   categories: ["computer"]
 
 - name: Graphic Design
   logo: /images/sections/skills/crop-tool.png
-  summary: "Working knowledge of Adobe Photoshop, Illustrator, GIMP & Inkscape for graphic design. Fluent in Affinity Creative Suite."
+  summary: "Working knowledge of graphic design with Adobe Photoshop, Illustrator, GIMP, and Inkscape. Fluent in Affinity Creative Suite."
   categories: ["others"]
 
 - name: Soft Skills
   logo: /images/sections/skills/soft-skills.png
-  summary: "An adaptable, critical thinker gifted at analyzing complexities, finding creative solutions, and collaborating seamlessly with diverse teams to deliver outstanding results while eagerly acquiring new skills."
+  summary: "Adaptable, creative problem-solver. Thrives in collaborative environments, committed to continuous learning, and delivers high-quality results."
   categories: ["others"]
 
 # - name: Kubernetes
