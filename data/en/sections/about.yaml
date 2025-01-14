@@ -111,7 +111,7 @@ badges:
   color: "#f44336"
 
 - type: soft-skill-indicator
-  name: Bioinformatics and Biostatistics
+  name: Computational Biology
   percentage: 85
   color: "#e91e63"
 
@@ -136,7 +136,7 @@ badges:
   color: "#8bc34a"
 
 - type: soft-skill-indicator
-  name: Technical Writing and Documentation
+  name: Writing & Documentation
   percentage: 95
   color: "#009688"
 
