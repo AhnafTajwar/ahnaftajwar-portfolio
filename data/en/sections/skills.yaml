@@ -12,8 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Biotech
-  filter: "biotech"
+- name: Life Sciences
+  filter: "life-sciences"
 - name: Data & Code
   filter: "data-code"
 - name: IT & Cloud
@@ -30,32 +30,32 @@ skills:
 - name: Clinical Trials and Translational Research
   logo: /images/sections/skills/clinical-trials.png
   summary: "Seasoned in all phases of clinical trials (I-IV), from design to implementation, ensuring efficacy, safety, and regulatory adherence. Bridges the gap between lab discoveries and real-world patient care, optimizing recruitment and retention strategies. Strong command of digital clinical data management."
-  categories: ["biotech"]
+  categories: ["life-sciences"]
 
 - name: Drug and Vaccine Development
   logo: /images/sections/skills/vaccine.png
   summary: "Expert in drug candidate screening using high-throughput methods, and in designing and executing *in vitro*/*in vivo* studies. Proven track record in antigen discovery, vaccine design, and comprehensive immunogenicity and safety evaluation."
-  categories: ["biotech"]
+  categories: ["life-sciences"]
 
 - name: Bioinformatics and Biostatistics
   logo: /images/sections/skills/bioinformatics.png
   summary: "Proficient with bioinformatics tools (BLAST, MEGA, RaptorX, STRING, Cytoscape) for sequence analysis, phylogenetics, and protein studies. Skilled in statistical analysis using GraphPad Prism and SPSS. Familiar with DNA/primer design and homology modeling."
-  categories: ["biotech", "data-code"]
+  categories: ["life-sciences", "data-code"]
 
 - name: Recombinant DNA Technology
   logo: /images/sections/skills/rdna.png
   summary: "Mastery of genetic engineering techniques including PCR, gene cloning, and recombinant protein expression. Capable in designing experiments for genetic manipulation and creating transgenic organisms. Strict adherence to biosafety protocols in all biotech operations."
-  categories: ["biotech"]
+  categories: ["life-sciences"]
 
 - name: Microbial Assays
   logo: /images/sections/skills/bacteria.png
   summary: "Accomplished in bacterial cultivation and antimicrobial susceptibility testing. Well-versed in techniques like bi-layer well diffusion assays and TLC bioautography to identify effective antimicrobial compounds."
-  categories: ["biotech"]
+  categories: ["life-sciences"]
 
 - name: Plant Extraction and Phytochemical Screening
   logo: /images/sections/skills/phytochemical.png
   summary: "Expert in the extraction of bioactive compounds from plant materials using various solvent systems. Highly capable in qualitative phytochemical screening to identify diverse phytochemical classes."
-  categories: ["biotech"]
+  categories: ["life-sciences"]
 
 - name: Python
   logo: /images/sections/skills/python.png

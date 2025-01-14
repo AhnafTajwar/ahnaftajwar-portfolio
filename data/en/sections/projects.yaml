@@ -8,12 +8,12 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons (Matching Skill Categories)
+# filter buttons (Based on Project Types)
 buttons:
 - name: All
   filter: "all"
-- name: Biotech
-  filter: "biotech"
+- name: Life Sciences
+  filter: "life-sciences"
 - name: Data & Code
   filter: "data-code"
 - name: IT & Cloud
@@ -29,79 +29,74 @@ buttons:
 projects:
 - name: A Randomized, Double-Blind, Placebo-Controlled, Safety, Tolerability and Pharmacokinetic Phase I Study of Escalating Single Doses of VPO-227 in Healthy Volunteers
   logo: /images/sections/projects/cholera.png
-  # image: /images/sections/projects/toha_website.png
-  role: Clinical Trial
+  role: Clinical Trial Specialist
   timeline: "2024 - Present"
   summary: "Contributed to the clinical trial by collaborating on the development of informed consent forms (ICFs) and establishing protocols for sample handling (blood, urine, stool), equipment disinfection, and waste management. Created labeling for sample containers for accurate identification and handling. Conducted a thorough inventory of necessary logistics, compiling a detailed list for smooth trial operation. Oversaw investigational product temperature monitoring to preserve its integrity."
-  tags: ["biotech", "comms-pm"]
+  tags: ["life-sciences", "clinical-trial"]
 
 - name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWarRe system — the AWaRe 1 Trial
   logo: /images/sections/projects/pills.png
-  # image: /images/sections/projects/toha_website.png
-  role: Clinical Trial
+  role: Clinical Trial Coordinator
   timeline: "2024 - Present"
   summary: "Facilitated localization for Upazila Health Complexes and offices by translating key documents and questionnaires into Bangla. Assembled a list of senior officers as potential advisors and identified Upazila Health Complex workers requiring training. Produced a detailed map of facility locations."
-  tags: ["biotech", "comms-pm"]
+  tags: ["life-sciences", "clinical-trial", "comms-pm"]
 
 - name: Non-HCC Biomarker Analysis Study
   logo: /images/sections/projects/non-hcc.png
-  # image: /images/sections/projects/toha_website.png
-  role: Clinical Study
+  role: Clinical Research Associate
   timeline: "2024 - Present"
   summary: "Took part in blood specimen processing and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study, coupled with managing comprehensive documentation systems. Organized patient test reports, prescription records, and informed consent forms (ICFs) digitally for efficient access. Standardized procedures for both biological sample handling and document management, ensuring optimal specimen integrity and adherence to regulations."
-  tags: ["biotech", "comms-pm"]
+  tags: ["life-sciences", "clinical-study"]
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
   logo: /images/sections/projects/pinkribbon.png
-  # image: /images/sections/projects/toha_website.png
-  role: Clinical Study
+  role: Clinical Data Manager
   timeline: "2023 - 2024"
   summary: "Managed documentation for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Established digital filing systems to improve data accessibility. Confirmed sample integrity and sorted samples in preparation for shipment."
-  tags: ["biotech", "comms-pm"]
+  tags: ["life-sciences", "clinical-study", "comms-pm"]
 
 - name: Analyzing Global Aquaculture Production Trends and Insights
   logo: /images/sections/projects/fish.png
-  # image: /images/sections/projects/toha_website.png
-  role: Analytical Case Study
+  role: Data Analyst
   timeline: "Jan 2024"
   summary: "This project investigated a fishing dataset to identify the top aquaculture-producing countries from 2014 to 2018, visualizing their production data using graphs. It also examined the significant growth of aquaculture in Bangladesh from 1960 to 2018, emphasizing the role of biotechnology in the industry's expansion."
-  tags: ["data-code", "biotech"]
+  tags: ["data-code", "data-analysis"]
 
 - name: Evaluation of Phytochemical Properties and In Vitro Antimicrobial Activity of Costus woodsonii Extracts
   logo: /images/sections/projects/woodsonii.png
-  role: Masters Thesis Project
+  role: Principal Investigator (Masters Thesis)
   timeline: "Aug 2023 - Jan 2024"
   summary: "Generated ethyl acetate extracts from powdered leaves, stems, and roots of *Costus woodsonii*. Subsequently, analyzed their phytochemical composition and assessed their potential antimicrobial activity against six pathogenic bacteria using bi-layer diffusion and TLC bioautography assays."
-  tags: ["biotech"]
+  tags: ["life-sciences", "lab-research"]
 
 - name: Exploring the Virulence of Tsukamurella paurometabola Through Functional Annotation of Hypothetical Proteins
   logo: /images/sections/projects/protein.png
-  role: Bachelor's Project
+  role: Bioinformatics Researcher
   timeline: "Aug 2021 - Sep 2022"
   summary: "Retrieved protein sequences of *Tsukamurella paurometabola*, curated the hypothetical proteins, and performed functional annotation and virulence prediction."
-  tags: ["data-code", "biotech"]
+  tags: ["data-code", "bioinformatics"]
 
 - name: Functional Annotation of Hypothetical Proteins From the Enterobacter cloacae B13 Strain and Its Association With Pathogenicity
   logo: /images/sections/projects/protein2.png
-  role: Research Project
+  role: Bioinformatics Research Assistant
   timeline: "Aug 2021 - Sep 2022"
   summary: "Supported data collection and processing for functional annotation and virulence analysis of hypothetical proteins of *Enterobacter cloacae* B13 Strain."
-  tags: ["data-code", "biotech"]
+  tags: ["data-code", "bioinformatics"]
 
 - name: Development of This Portfolio Website Using Hugo
   logo: /images/sections/projects/portfolio-development.png
-  role: Website Development
+  role: Web Developer & Designer
   timeline: "Apr 2024 - Present"
   summary: "Developed and deployed this portfolio using the Hugo framework, GitHub, and Netlify."
-  tags: ["it-cloud", "design", "general"]
+  tags: ["it-cloud", "web-development", "design"]
 
 - name: Creation and Maintenance of A Personal Blog Using Wordpress
   logo: /images/sections/projects/user-interface.png
-  role: Website Development
+  role: Content Creator & Blog Manager
   timeline: "Apr 2024 - Present"
   url: https://ahnaftajwar.wordpress.com
   summary: "Design and maintenance of a personal blog using WordPress and JetPack site builder, featuring periodical posts."
-  tags: ["general", "comms-pm", "design"]
+  tags: ["general", "comms-pm", "web-development", "design"]
 
 ##### I (Ahnaf) will be using roles as subtitles instead.
 # - name: Kubernetes
