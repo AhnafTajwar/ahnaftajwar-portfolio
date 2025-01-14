@@ -106,49 +106,50 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Clinical Research
+  name: Clinical Research Coordination
   percentage: 90
   color: "#f44336"
 
 - type: soft-skill-indicator
-  name: Recombinant DNA Technology
-  percentage: 90
+  name: Bioinformatics and Biostatistics
+  percentage: 85
   color: "#e91e63"
 
 - type: soft-skill-indicator
-  name: Microbial Assays
-  percentage: 95
+  name: Recombinant DNA Technology
+  percentage: 90
   color: "#9c27b0"
 
 - type: soft-skill-indicator
-  name: Human Sample Processsing
+  name: Microbial and Biochemical Assays
   percentage: 90
   color: "#3f51b5"
 
 - type: soft-skill-indicator
-  name: Drug Development
+  name: Data Analysis (R & Python)
   percentage: 85
   color: "#03a9f4"
 
 - type: soft-skill-indicator
-  name: Writing and Documentation
-  percentage: 95
-  color: "#009688"
-
-- type: soft-skill-indicator
-  name: Linux
+  name: Linux System Administration
   percentage: 100
   color: "#8bc34a"
 
 - type: soft-skill-indicator
-  name: Python
-  percentage: 80
+  name: Technical Writing and Documentation
+  percentage: 95
+  color: "#009688"
+
+- type: soft-skill-indicator
+  name: Project Management
+  percentage: 85
   color: "#ffc107"
 
 - type: soft-skill-indicator
-  name: R
-  percentage: 90
+  name: Prompt Engineering
+  percentage: 80
   color: "#ff5722"
+
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
