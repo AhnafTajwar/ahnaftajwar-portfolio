@@ -126,7 +126,7 @@ badges:
   color: "#3f51b5"
 
 - type: soft-skill-indicator
-  name: Data Analysis (R & Python)
+  name: Data Analysis
   percentage: 85
   color: "#03a9f4"
 
