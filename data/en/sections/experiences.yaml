@@ -10,96 +10,97 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: IDD Special Activities, icddr,b
-    url: "https://www.icddrb.org/"
-    location: Dhaka, Bangladesh
-    logo: /images/sections/experiences/icddrb.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: icddr,b, a leading global health research institute based in Dhaka, Bangladesh, is dedicated to addressing public health challenges in low- and middle-income countries through innovative scientific research. For over 50 years, the institute has conducted high-quality research and promoted evidence-based interventions, expanding from its initial focus on diarrhoeal disease to encompass a wide range of public health issues.
-  positions:
-  - designation: Research Assistant
-    start: Sep 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Sep 2024
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Maintaining laboratory equipment, performing minor troubleshooting, and ensuring optimal operation.
-    - Processing, labeling, and storing samples in appropriate conditions according to study requirements, while ensuring sample integrity.
-    - Conducting microbiological analyses to isolate and identify enteric pathogens using rapid diagnostic tests, culturing techniques, and molecular methods like PCR.
-    - Extracting nucleic acid, identifying bacteriophages through phenotypic and molecular tests, and updating standard operating procedures (SOPs) and project-related documents.
-    - Collaborating with senior colleagues to ensure adherence to quality assurance processes, assisting with laboratory tests, and creating project presentations and spreadsheets.
-    - Overseeing the activities of field workers, medical technologists, and nurses during clinical trials.
-    - Communicating and engaging with sponsors and foreign advisors to ensure effective communication and proper conduct of research projects.
-    - Translating and developing key documents, presentations, and other relevant research, office and logistics materials.
+  - company:
+      name: IDD Special Activities, icddr,b
+      url: "https://www.icddrb.org/"
+      location: Dhaka, Bangladesh
+      logo: /images/sections/experiences/icddrb.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: icddr,b, a leading global health research institute based in Dhaka, Bangladesh, is dedicated to addressing public health challenges in low- and middle-income countries through innovative scientific research. For over 50 years, the institute has conducted high-quality research and promoted evidence-based interventions, expanding from its initial focus on diarrhoeal disease to encompass a wide range of public health issues.
+    positions:
+      - designation: Research Assistant
+        start: Sep 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Sep 2024
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Maintained and troubleshot complex laboratory equipment, ensuring optimal functionality and a smooth workflow for all research activities.
+          - Meticulously processed, labeled, and stored a diverse array of biological samples under appropriate conditions, safeguarding their integrity for crucial downstream analysis.
+          - Isolated and identified microbial targets from a diverse range of sources, including clinical samples (blood, urine, stool, and other body fluids), environmental samples, utilizing a combination of rapid diagnostic tests, culturing techniques, and advanced molecular methods like PCR.
+          - Extracted nucleic acid and characterized bacteriophages through a suite of phenotypic and molecular tests, contributing to a deeper understanding of their biology.
+          - Collaborated closely with senior colleagues to implement and maintain rigorous quality assurance processes, ensuring the highest standards of research integrity.
+          - Oversaw the activities of field workers, medical technologists, and nurses during clinical trials, guaranteeing their smooth and efficient execution.
+          - Effectively communicated and engaged with international sponsors and foreign advisors, fostering strong collaborative relationships and ensuring the proper conduct of research projects.
+          - Translated and developed key documents, presentations, and other relevant research, office and logistics materials.
 
-- company:
-    name: Department of Genetic Engineering and Biotechnology, University of Dhaka
-    url: "https://www.du.ac.bd/body/GET"
-    location: Dhaka, Bangladesh
-    logo: /images/sections/experiences/dhaka_university.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: The Department of Genetic Engineering and Biotechnology, University of Dhaka was established in 2001 and is renowned for its academic and research excellence.
-  positions:
-  - designation: Research Assistant
-    start: Jan 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Sep 2024
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Assistance in various research projects, contributing to experimental design, data collection, and data analysis.
-    - Mentoring of novice researchers in project-related activities.
-  - designation: Thesis Student and Researcher
-    start: Aug 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Dec 2023
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Performing research on the antimicrobial activity of *Costus woodsonii* samples for Master's Thesis.
-    - Participating in bioinformatics projects on the virulence of *Tsukamurella paurometabola* and *Enterobacter cloacae*.
+  - company:
+      name: Department of Genetic Engineering and Biotechnology, University of Dhaka
+      url: "https://www.du.ac.bd/body/GET"
+      location: Dhaka, Bangladesh
+      logo: /images/sections/experiences/dhaka_university.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: The Department of Genetic Engineering and Biotechnology, University of Dhaka was established in 2001 and is renowned for its academic and research excellence.
+    positions:
+      - designation: Research Assistant
+        start: Jan 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Sep 2024
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Actively contributed to the design, execution, and analysis of various cutting-edge research projects within the field of genetic engineering and biotechnology.
+          - Provided mentorship and guidance to novice researchers, fostering their scientific development and helping them navigate project-related activities effectively.
+      - designation: Thesis Student and Researcher
+        start: Aug 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Dec 2023
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Conducted comprehensive research into the antimicrobial properties of *Costus woodsonii* for a Master's thesis, exploring its potential as a source of novel therapeutic agents.
+          - Engaged in bioinformatics analyses to investigate the virulence factors of *Tsukamurella paurometabola* and *Enterobacter cloacae*, shedding light on their pathogenic mechanisms.
 
-- company:
-    name: Notesnook
-    url: "https://notesnook.com"
-    location: Khushab, Pakistan
-    logo: /images/sections/experiences/notesnook.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Notesnook is a free (as in speech) & open-source note-taking app focused on user privacy & ease of use.
-  positions:
-  - designation: Community Moderator
-    start: Feb 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Frontline user support across Telegram, Discord, and Reddit for software troubleshooting and issue resolution.
-    - Community moderation, fostering positive discussions, enforcing guidelines, and relaying feedback to developers.
-    - Assistance in maintaining user documentation, FAQs, and knowledge base articles.
+  - company:
+      name: Notesnook
+      url: "https://notesnook.com"
+      location: Khushab, Pakistan
+      logo: /images/sections/experiences/notesnook.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: Notesnook is a free (as in speech) & open-source note-taking app focused on user privacy & ease of use.
+    positions:
+      - designation: Community Moderator
+        start: Feb 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Provided frontline user support across Telegram, Discord, and Reddit, troubleshooting software issues, resolving user queries, and ensuring a positive experience for all.
+          - Cultivated a thriving and welcoming online community by fostering positive discussions, enforcing community guidelines, and promoting a respectful environment.
+          - Acted as a vital conduit for user feedback, relaying valuable insights and suggestions to the development team to inform ongoing improvements to the Notesnook app.
+          - Helped maintain and update user documentation, FAQs, and knowledge base articles, ensuring users have ready access to comprehensive and helpful resources.
 
-- company:
-    name:  Al-Quraner Vasha Institute (Institute of the Language of The Quran)
-    url: "https://www.alquranervasha.com/"
-    location: Dhaka, Bangladesh
-    logo: /images/sections/experiences/aqvi.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Al Quraner Vasha Institute offers a free and accessible endeavor to learn Quranic Arabic with online classes and academic-level books.
-  positions:
-  - designation: Virtual Classroom Assistant
-    start: Jun 2021
-    end: Apr 2022
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Moderated virtual classroom on Zoom for live "Comprehensive Arabic 21" course.
-    - Managed participant question queue on Zoom and relayed questions to instructor.
-    - Muted/removed disruptive participants for conducive learning during live classes.
+  - company:
+      name: Al-Quraner Vasha Institute (Institute of the Language of The Quran)
+      url: "https://www.alquranervasha.com/"
+      location: Dhaka, Bangladesh
+      logo: /images/sections/experiences/aqvi.jpg
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: Al Quraner Vasha Institute offers a free and accessible endeavor to learn Quranic Arabic with online classes and academic-level books.
+    positions:
+      - designation: Virtual Classroom Assistant
+        start: Jun 2021
+        end: Apr 2022
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Orchestrated and moderated live "Comprehensive Arabic 21" course sessions on Zoom, ensuring a seamless, interactive, and engaging learning environment for participants worldwide.
+          - Managed the participant question queue during live sessions, efficiently relaying questions to the instructor to facilitate dynamic learning and address student queries in real time.
+          - Maintained a focused and conducive learning atmosphere during live classes by promptly addressing any disruptions and ensuring all participants could fully engage with the course content.
 
 # - company:
 #     name: Example Co.
