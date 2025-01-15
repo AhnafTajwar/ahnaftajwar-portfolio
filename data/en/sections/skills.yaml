@@ -34,7 +34,7 @@ skills:
 
 - name: Drug and Vaccine Development
   logo: /images/sections/skills/vaccine.png
-  summary: "Expert in drug candidate screening using high-throughput methods, and in designing and executing *in vitro*/*in vivo* studies. Proven track record in antigen discovery, vaccine design, and comprehensive immunogenicity and safety evaluation."
+  summary: "Expert in drug candidate screening using high-throughput methods, and in designing and executing *in vitro* / *in vivo* studies. Proven track record in antigen discovery, vaccine design, and comprehensive immunogenicity and safety evaluation."
   categories: ["life-sciences"]
 
 - name: Bioinformatics and Biostatistics
