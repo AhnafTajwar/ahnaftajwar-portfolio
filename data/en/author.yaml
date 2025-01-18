@@ -19,10 +19,10 @@ contactInfo:
     icon: x-twitter
     url: https://x.com/hnaftajwar
     text: hnaftajwar
-  # discord:
-  #   icon: discord
-  #   url: https://discord.com/users/988740772180414464
-  #   text: ahnaf.tajwar
+  discord:
+    icon: discord
+    url: https://discord.com/users/988740772180414464
+    text: ahnaf.tajwar
   # messenger:
   #   icon: facebook-messenger
   #   url: https://m.me/hnftjwr
