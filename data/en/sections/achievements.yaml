@@ -13,12 +13,12 @@ achievements:
 - title: Biosafety and Biosecurity Trainings in Both Laboratory and Clinical Care
   image: /images/sections/achievements/biosafety.jpg
   summary: Successfully finished the three-day extensive theoretical and hands-on annual biosafety and biosecurity training offered by icddr,b Biosafety Office. Also took the day-long biosafety in clinical care training offered by the Biosafety Office.
-- title: Good Clinical Practices Training
-  image: /images/sections/achievements/gcp.png
-  summary: Completed the course on good clinical practices offered by National Drug Abuse Treatment Clinical Trials Network.
-- title: Protecting Human Research Participants Online Training
-  image: /images/sections/achievements/phrp.png
-  summary: Earned certification for protecting human research participants with an online training.
+# - title: Good Clinical Practices Training
+#   image: /images/sections/achievements/gcp.png
+#   summary: Completed the course on good clinical practices offered by National Drug Abuse Treatment Clinical Trials Network.
+# - title: Protecting Human Research Participants Online Training
+#   image: /images/sections/achievements/phrp.png
+#   summary: Earned certification for protecting human research participants with an online training.
 - title: National Science and Technology Fellowship
   image: /images/sections/achievements/nst-fellowship.jpg
   summary: Recipient of the prestigious National Science and Technology Fellowship from Ministry of Science and Technology, Government of Bangladesh.
@@ -31,12 +31,12 @@ achievements:
 - title: 2nd runners-up at Dhaka College Quiz Competition
   image: /images/sections/achievements/dc-quiz.jpg
   summary: 2nd runners-up at Annual Science Fair Quiz Competition, Dhaka College (2014).
-- title: Bachelor's Graduation
-  image: /images/sections/achievements/bsc-graduation.webp
-  summary: Celebrated Bachelor's Degree graduation at University of Dhaka, 53rd Convocation (2022).
-- title: Introduction to Programming in R for Biologists
-  image: /images/sections/achievements/r-workshop.jpg
-  summary: Completed a 5-day intensive workshop on R programming for biologists from Center for Bioinformatics Learning Advancement and Systematic Training, University of Dhaka.
+# - title: Bachelor's Graduation
+#   image: /images/sections/achievements/bsc-graduation.webp
+#   summary: Celebrated Bachelor's Degree graduation at University of Dhaka, 53rd Convocation (2022).
+# - title: Introduction to Programming in R for Biologists
+#   image: /images/sections/achievements/r-workshop.jpg
+#   summary: Completed a 5-day intensive workshop on R programming for biologists from Center for Bioinformatics Learning Advancement and Systematic Training, University of Dhaka.
 - title: Dhaka University Seerat Reading and Competition - 2020
   image: /images/sections/achievements/du-seerah.jpg
   summary: Secured 6th position in Dhaka University Seerat Reading and Competition (2020).

@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Accomplishments
+  name: Certifications
   id: accomplishments
-  enable: false
+  enable: true
   weight: 9
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -11,36 +11,60 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Good Clinical Practices
+  timeline: "September 2024"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: National Drug Abuse Treatment Clinical Trials Network
+    url: https://gcp.nidatraining.org/
+  courseOverview: The Good Clinical Practice (GCP) course is designed to prepare research staff in the conduct of clinical trials with human participants. The modules included in the course are based on ICH GCP Principles and the Code of Federal Regulations (CFR) for clinical research trials in the U.S.
+  certificateURL: "files/gcp-cert.pdf"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Protecting Human Research Participants
+  timeline: "September 2024, Recertified January 2025"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: PHRP Online Training, Inc.
+    url: https://phrptraining.com/
+  courseOverview: The Protecting Human Research Participants (PHRP) course is dedicated to support the safe conducting of federally funded research and convey key concepts and regulations found within the Belmont Report and 45 CFR Part 46 regulations.
+  certificateURL: "files/phrp-cert.pdf"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Introduction to Programming in R for Biologists
+  timeline: "December 2023"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Center for Bioinformatics Learning Advancement and Systematic Training (CBLAST), University of Dhaka
+    url: https://www.cblast.du.ac.bd/
+  courseOverview: This intensive R workshop guides participants from basic programming concepts to advanced data analysis techniques. Covering variables, data structures, functions, and control flow, it empowers participants to effectively analyze data and generate insightful visualizations with R.
+  certificateURL: "files/rworkshop-cert.pdf"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+# - name: Linux Foundation System Administrator
+#   timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Linux Foundation
+#     url: https://www.linuxfoundation.org
+#   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+#   certificateURL: "https://example.com"
+
+# - name: Machine Learning
+#   timeline: "Jun 2020 - Jan 2021"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org
+#   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+#   certificateURL: "https://example.com"
+
+# - name: Grokking the System Design Interview
+#   timeline: "Jan 2018 - Sept 2018"
+#   organization:
+#     name: educative
+#     url: https://www.educative.io
+#   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+#   certificateURL: "https://example.com"
+
+# - name: Mastering Multithreading Programming with Go (Golang)
+#   timeline: "Nov 2017 - Mar 2018"
+#   organization:
+#     name: Udemy
+#     url: https://www.udemy.com
+#   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+#   certificateURL: "https://example.com"
  
 
