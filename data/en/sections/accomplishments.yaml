@@ -19,6 +19,14 @@ accomplishments:
   courseOverview: The Good Clinical Practice (GCP) course is designed to prepare research staff in the conduct of clinical trials with human participants. The modules included in the course are based on ICH GCP Principles and the Code of Federal Regulations (CFR) for clinical research trials in the U.S.
   certificateURL: "files/gcp-cert.pdf"
 
+- name: Antimicrobial Resistance - Theory and Methods
+  timeline: "January 2025"
+  organization:
+    name: Technical University of Denmark (DTU)
+    url: https://www.dtu.dk/english/
+  courseOverview: This course focuses on antimicrobial resistance (AMR), covering its mechanisms, public health implications, and laboratory identification methods.  It explores bacterial resistance, antimicrobial susceptibility testing (AST), and molecular techniques like PCR and whole genome sequencing, and includes a new module on detecting specific resistance mechanisms.
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/XULKP4KBFDU6"
+
 - name: Protecting Human Research Participants
   timeline: "September 2024, Recertified January 2025"
   organization:
