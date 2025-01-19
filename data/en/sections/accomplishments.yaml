@@ -11,7 +11,15 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Good Clinical Practices
+  - name: Macroduct Advanced Model 3710 and ChloroChek Model 3400 Operation
+  timeline: "January 2025"
+  organization:
+    name: ELITechGroup Institute
+    url: https://training-elitech.talentlms.com/
+  courseOverview: These courses represent cutting-edge training in sweat analysis. Instruction includes mastery of the Macroduct Advanced Sweat Collection System for uncontaminated sampling and the Chlorochek Model 3400 for precise ionometric measurement. This combination supports the most accurate sweat analysis for diverse applications, including pharmacokinetic analysis.
+  certificateURL: "files/macroduct_chlorochek-cert.pdf"
+
+  - name: Good Clinical Practices
   timeline: "September 2024"
   organization:
     name: National Drug Abuse Treatment Clinical Trials Network
