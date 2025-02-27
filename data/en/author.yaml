@@ -15,14 +15,14 @@ contactInfo:
     icon: telegram
     url: https://t.me/ahnaftajwar
     text: ahnaftajwar
-  x-twitter:
-    icon: x-twitter
-    url: https://x.com/hnaftajwar
-    text: hnaftajwar
-  discord:
-    icon: discord
-    url: https://discord.com/users/988740772180414464
-    text: ahnaf.tajwar
+  # x-twitter:
+  #   icon: x-twitter
+  #   url: https://x.com/hnaftajwar
+  #   text: hnaftajwar
+  # discord:
+  #   icon: discord
+  #   url: https://discord.com/users/988740772180414464
+  #   text: ahnaf.tajwar
   # messenger:
   #   icon: facebook-messenger
   #   url: https://m.me/hnftjwr
