@@ -41,11 +41,11 @@ projects:
   summary: "Facilitated localization for Upazila Health Complexes and offices by translating key documents and questionnaires into Bangla. Assembled a list of senior officers as potential advisors and identified Upazila Health Complex workers requiring training. Produced a detailed map of facility locations."
   tags: ["life-sciences", "clinical-trial", "comms-pm"]
 
-- name: Non-HCC Biomarker Analysis Study
+- name: Study Title: Clinical Trial on Detection of hepatocellular carcinoma (HCC) with non-invasive method based on DNA methylation of circulated tumor DNA, PBMC and T cells
   logo: /images/sections/projects/non-hcc.png
   role: Clinical Research
   timeline: "2024 - Present"
-  summary: "Took part in blood specimen processing and storage protocols for the Non-HCC Biomarker Analysis (NHBA) Study, coupled with managing comprehensive documentation systems. Organized patient test reports, prescription records, and informed consent forms (ICFs) digitally for efficient access. Standardized procedures for both biological sample handling and document management, ensuring optimal specimen integrity and adherence to regulations."
+  summary: "Took part in blood specimen processing and storage protocols for the Non-HCC biomarker analysis phase, coupled with managing comprehensive documentation systems. Organized patient test reports, prescription records, and informed consent forms (ICFs) digitally for efficient access. Standardized procedures for both biological sample handling and document management, ensuring optimal specimen integrity and adherence to regulations. Verified sample integrity as preparation for shipment."
   tags: ["life-sciences", "clinical-study"]
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
