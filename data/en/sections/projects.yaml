@@ -40,8 +40,8 @@ projects:
   timeline: "2024 - Present"
   summary: "Facilitated localization for Upazila Health Complexes and offices by translating key documents and questionnaires into Bangla. Assembled a list of senior officers as potential advisors and identified Upazila Health Complex workers requiring training. Produced a detailed map of facility locations."
   tags: ["life-sciences", "clinical-trial", "comms-pm"]
-
-- name: Study Title: Clinical Trial on Detection of hepatocellular carcinoma (HCC) with non-invasive method based on DNA methylation of circulated tumor DNA, PBMC and T cells
+ 
+- name: Clinical Trial on Detection of hepatocellular carcinoma (HCC) with non-invasive method based on DNA methylation of circulated tumor DNA, PBMC and T cells
   logo: /images/sections/projects/non-hcc.png
   role: Clinical Research
   timeline: "2024 - Present"
