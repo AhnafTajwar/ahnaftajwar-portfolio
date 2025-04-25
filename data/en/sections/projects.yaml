@@ -8,95 +8,95 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons (Based on Project Types)
+# filter buttons (Keeping the refined set)
 buttons:
 - name: All
   filter: "all"
-- name: Life Sciences
-  filter: "life-sciences"
-- name: Data & Code
-  filter: "data-code"
-- name: IT & Cloud
-  filter: "it-cloud"
-- name: Comms & PM
-  filter: "comms-pm"
+- name: Bioscience
+  filter: "bioscience"
+- name: Code & Data
+  filter: "code-data"
+- name: Infra & IT
+  filter: "infra-it"
+- name: Comms & Collab
+  filter: "comms-collab"
 - name: Design
   filter: "design"
-- name: General
-  filter: "general"
+- name: Core Skills
+  filter: "core-skills"
 
-# your projects
+# your projects (Refined Tagging for Web/Blog Projects)
 projects:
 - name: A Randomized, Double-Blind, Placebo-Controlled, Safety, Tolerability and Pharmacokinetic Phase I Study of Escalating Single Doses of VPO-227 in Healthy Volunteers
   logo: /images/sections/projects/cholera.png
-  role: Clinical Trial
+  role: Clinical Trial Operations
   timeline: "2024 - Present"
-  summary: "Ensured smooth clinical trial operations, overseeing all lab and sample processing activities, by collaborating on informed consent form (ICF) development and creating protocols for biospecimen handling, equipment disinfection, and waste management. Created clear sample container labeling. Conducted a comprehensive logistics inventory. Maintained investigational product integrity through temperature monitoring and transportation oversight. Processed and shipped samples (plasma, urine, stool, sweat), with corresponding digital labels. Advised health workers on proper sample collection techniques."
-  tags: ["life-sciences", "clinical-trial"]
+  summary: "Orchestrated critical lab operations and sample logistics for this Phase I healthy volunteer study. Established rigorous protocols governing biospecimen handling from collection (plasma, urine, stool, sweat) through processing to shipment, ensuring sample integrity and strict biosafety compliance. Made key contributions across trial execution: collaborated on ICF development and guided health worker collection techniques; managed meticulous inventory and IP temperature control; and designed essential labels/documents while maintaining accurate patient record files (CRFs)."
+  tags: ["bioscience", "clinical-trial", "comms-collab"]
 
-- name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWarRe system — the AWaRe 1 Trial
+- name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWaRe system — the AWaRe 1 Trial
   logo: /images/sections/projects/pills.png
-  role: Clinical Trial
+  role: Clinical Trial Support & Localization
   timeline: "2024 - Present"
-  summary: "Facilitated localization for Upazila Health Complexes and offices by translating key documents and questionnaires into Bangla. Assembled a list of senior officers as potential advisors and identified Upazila Health Complex workers requiring training. Produced a detailed map of facility locations."
-  tags: ["life-sciences", "clinical-trial", "comms-pm"]
- 
+  summary: "Facilitated the localization effort for this global primary care trial in Bangladesh, translating essential documents and questionnaires into Bangla for Upazila Health Complexes. Identified key personnel for advisory roles and training needs, and developed crucial facility location maps to support logistical planning."
+  tags: ["bioscience", "clinical-trial", "comms-collab"]
+
 - name: Clinical Trial on Detection of hepatocellular carcinoma (HCC) with non-invasive method based on DNA methylation of circulated tumor DNA, PBMC and T cells
   logo: /images/sections/projects/non-hcc.png
-  role: Clinical Research
+  role: Clinical Research Support
   timeline: "2024 - Present"
-  summary: "Took part in blood specimen processing and storage protocols for the Non-HCC biomarker analysis phase, coupled with managing comprehensive documentation systems. Organized patient test reports, prescription records, and informed consent forms (ICFs) digitally for efficient access. Standardized procedures for both biological sample handling and document management, ensuring optimal specimen integrity and adherence to regulations. Verified sample integrity as preparation for shipment."
-  tags: ["life-sciences", "clinical-study"]
+  summary: "Executed vital blood specimen processing and storage protocols for ctDNA methylation analysis in HCC detection. Architected and managed comprehensive digital documentation systems for patient records, ICFs, and test reports. Standardized sample handling and documentation procedures, ensuring regulatory compliance and optimal specimen integrity for shipment."
+  tags: ["bioscience", "clinical-study", "comms-collab"]
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
   logo: /images/sections/projects/pinkribbon.png
-  role: Clinical Research
+  role: Clinical Research Documentation
   timeline: "2023 - 2024"
-  summary: "Managed documentation for an epigenetic breast cancer research study, including systematic organization of informed consent forms (ICFs) and patient prescription records. Established digital filing systems to improve data accessibility. Confirmed sample integrity and sorted samples in preparation for shipment."
-  tags: ["life-sciences", "clinical-study", "comms-pm"]
+  summary: "Managed the complete documentation lifecycle for this epigenetic research study, systematically organizing ICFs and patient records. Implemented efficient digital filing systems, enhancing data accessibility and retrieval. Ensured meticulous sample integrity verification and sorting prior to shipment."
+  tags: ["bioscience", "clinical-study", "comms-collab"]
 
 - name: Analyzing Global Aquaculture Production Trends and Insights
   logo: /images/sections/projects/fish.png
-  role: Analytical Case Study
+  role: Data Analysis & Visualization Case Study
   timeline: "Jan 2024"
-  summary: "This project investigated a fishing dataset to identify the top aquaculture-producing countries from 2014 to 2018, visualizing their production data using graphs. It also examined the significant growth of aquaculture in Bangladesh from 1960 to 2018, emphasizing the role of biotechnology in the industry's expansion."
-  tags: ["data-code", "data-analysis"]
+  summary: "Analyzed global aquaculture datasets to identify and visualize production leaders between 2014-2018. Conducted a focused investigation into Bangladesh's aquaculture sector growth (1960-2018), highlighting the impact of biotechnology on industry expansion through graphical representation."
+  tags: ["code-data", "data-analysis", "bioscience"]
 
 - name: Evaluation of Phytochemical Properties and In Vitro Antimicrobial Activity of Costus woodsonii Extracts
   logo: /images/sections/projects/woodsonii.png
-  role: Masters Thesis Project
+  role: Masters Thesis Research (Lab-Based)
   timeline: "Aug 2023 - Jan 2024"
-  summary: "Generated ethyl acetate extracts from powdered leaves, stems, and roots of *Costus woodsonii*. Subsequently, analyzed their phytochemical composition and assessed their potential antimicrobial activity against six pathogenic bacteria using bi-layer diffusion and TLC bioautography assays."
-  tags: ["life-sciences", "lab-research"]
+  summary: "Conducted comprehensive laboratory research for Masters thesis. Involved extracting bioactive compounds from *Costus woodsonii* using various solvent systems, performing qualitative phytochemical screening, and evaluating *in vitro* antimicrobial efficacy against pathogenic bacteria via bi-layer diffusion and TLC bioautography."
+  tags: ["bioscience", "lab-research"]
 
 - name: Exploring the Virulence of Tsukamurella paurometabola Through Functional Annotation of Hypothetical Proteins
   logo: /images/sections/projects/protein.png
-  role: Bioinformatics Research Project
+  role: Bioinformatics Research
   timeline: "Aug 2021 - Sep 2022"
-  summary: "Retrieved protein sequences of *Tsukamurella paurometabola*, curated the hypothetical proteins, and performed functional annotation and virulence prediction."
-  tags: ["data-code", "bioinformatics"]
+  summary: "Executed a bioinformatics pipeline involving protein sequence retrieval, curation of hypothetical proteins, and computational functional annotation to predict potential virulence factors in *Tsukamurella paurometabola*."
+  tags: ["code-data", "bioinformatics", "bioscience"]
 
 - name: Functional Annotation of Hypothetical Proteins From the Enterobacter cloacae B13 Strain and Its Association With Pathogenicity
   logo: /images/sections/projects/protein2.png
-  role: Bioinformatics Research Project
+  role: Bioinformatics Research Support
   timeline: "Aug 2021 - Sep 2022"
-  summary: "Supported data collection and processing for functional annotation and virulence analysis of hypothetical proteins of *Enterobacter cloacae* B13 Strain."
-  tags: ["data-code", "bioinformatics"]
+  summary: "Provided key support in data acquisition and processing stages for a project focused on the functional annotation and virulence prediction of hypothetical proteins within the *Enterobacter cloacae* B13 strain."
+  tags: ["code-data", "bioinformatics", "bioscience"]
 
 - name: Development of This Portfolio Website Using Hugo
   logo: /images/sections/projects/portfolio-development.png
-  role: Web Development & Design
+  role: Web Development (Static)
   timeline: "Apr 2024 - Present"
-  summary: "Developed and deployed this portfolio using the Hugo framework, GitHub, and Netlify."
-  tags: ["it-cloud", "web-development", "design"]
+  summary: "Designed, developed, and deployed this personal portfolio utilizing the Hugo static site generator. Leveraged GitHub for robust version control and Netlify for seamless continuous integration and deployment (CI/CD)."
+  tags: ["infra-it", "web-development", "design"]
 
 - name: Creation and Maintenance of A Personal Blog Using Wordpress
   logo: /images/sections/projects/user-interface.png
-  role: Content Creation & Blog Manaagement
+  role: Content Creation & Blog Management
   timeline: "Apr 2024 - Present"
   url: https://ahnaftajwar.wordpress.com
-  summary: "Design and maintenance of a personal blog using WordPress and JetPack site builder, featuring periodical posts."
-  tags: ["general", "comms-pm", "web-development", "design"]
+  summary: "Established and currently maintain a personal blog platform using WordPress, enhanced with the JetPack builder. Includes ongoing content creation, design adjustments, and platform upkeep."
+  tags: ["comms-collab", "web-development", "design"]
 
 ##### I (Ahnaf) will be using roles as subtitles instead.
 # - name: Kubernetes

@@ -8,149 +8,149 @@ section:
   filter: true
   # hideTitle: true # Optional
 
-# filter buttons (Shorter Names)
+# filter buttons (Shorter Names, Revised Filters)
 buttons:
 - name: All
   filter: "all"
-- name: Life Sciences
-  filter: "life-sciences"
-- name: Data & Code
-  filter: "data-code"
-- name: IT & Cloud
-  filter: "it-cloud"
-- name: Comms & PM
-  filter: "comms-pm"
+- name: Bioscience
+  filter: "bioscience" # Simpler filter
+- name: Code & Data
+  filter: "code-data" # Simpler filter
+- name: Infra & IT
+  filter: "infra-it" # Simpler filter
+- name: Comms & Collab
+  filter: "comms-collab" # Kept descriptive filter
 - name: Design
   filter: "design"
-- name: General
-  filter: "general"
+- name: Core Skills
+  filter: "core-skills" # Kept descriptive filter
 
-# Your Skills (with Multiple Categories)
+# Your Skills (Updated categories and refined summaries)
 skills:
-- name: Clinical Trials and Translational Research
+- name: Clinical Trial Navigation
   logo: /images/sections/skills/clinical-trials.png
-  summary: "Seasoned in all phases of clinical trials (I-IV), from design to implementation, ensuring efficacy, safety, and regulatory adherence. Bridges the gap between lab discoveries and real-world patient care, optimizing recruitment and retention strategies. Strong command of digital clinical data management."
-  categories: ["life-sciences"]
+  summary: "Steering clinical trials (Phase I-IV) across their lifecycle, ensuring rigorous ethical standards, data validity, and regulatory alignment. Bridging bench discoveries to patient care through effective digital data management and participant strategies."
+  categories: ["bioscience"] # Updated category
 
-- name: Drug and Vaccine Development
+- name: Drug & Vaccine Discovery
   logo: /images/sections/skills/vaccine.png
-  summary: "Expert in drug candidate screening using high-throughput methods, and in designing and executing *in vitro* / *in vivo* studies. Proven track record in antigen discovery, vaccine design, and comprehensive immunogenicity and safety evaluation."
-  categories: ["life-sciences"]
+  summary: "Driving drug discovery via high-throughput screening and meticulously designed *in vitro* and *in vivo* studies. Expertise spans antigen identification to vaccine candidate validation, focusing on immunogenicity and safety."
+  categories: ["bioscience"] # Updated category
 
-- name: Bioinformatics and Biostatistics
+- name: Bioinformatics & Biostatistics
   logo: /images/sections/skills/bioinformatics.png
-  summary: "Proficient with bioinformatics tools (BLAST, MEGA, RaptorX, STRING, Cytoscape) for sequence analysis, phylogenetics, and protein studies. Skilled in statistical analysis using GraphPad Prism and SPSS. Familiar with DNA/primer design and homology modeling."
-  categories: ["life-sciences", "data-code"]
+  summary: "Decoding biological data using bioinformatics suites (BLAST, MEGA, etc.) for sequence exploration, phylogenetic mapping, and protein structure insights. Applying statistical rigor (GraphPad, SPSS) to extract meaning from experimental results. Skilled in strategic DNA/primer design."
+  categories: ["bioscience", "code-data"] # Updated categories
 
-- name: Recombinant DNA Technology
+- name: Recombinant DNA Crafting
   logo: /images/sections/skills/rdna.png
-  summary: "Mastery of genetic engineering techniques including PCR, gene cloning, and recombinant protein expression. Capable in designing experiments for genetic manipulation and creating transgenic organisms. Strict adherence to biosafety protocols in all biotech operations."
-  categories: ["life-sciences"]
+  summary: "Engineering genetic material through advanced techniques like PCR, gene cloning, and targeted recombinant protein expression. Designing and executing precise genetic modifications while upholding the highest biosafety standards."
+  categories: ["bioscience"] # Updated category
 
-- name: Microbial Assays
+- name: Microbial & Biochemical Analysis
   logo: /images/sections/skills/bacteria.png
-  summary: "Accomplished in bacterial cultivation and antimicrobial susceptibility testing. Well-versed in techniques like bi-layer well diffusion assays and TLC bioautography to identify effective antimicrobial compounds."
-  categories: ["life-sciences"]
+  summary: "Cultivating microbial life and assessing antimicrobial potential using specialized assays (diffusion, TLC bioautography). Executing diverse biochemical tests to investigate cellular processes and compound interactions."
+  categories: ["bioscience"] # Updated category
 
-- name: Plant Extraction and Phytochemical Screening
+- name: Phytochemical Exploration
   logo: /images/sections/skills/phytochemical.png
-  summary: "Expert in the extraction of bioactive compounds from plant materials using various solvent systems. Highly capable in qualitative phytochemical screening to identify diverse phytochemical classes."
-  categories: ["life-sciences"]
+  summary: "Unlocking plant bioactives through targeted extraction methods and solvent systems. Systematically screening plant extracts to identify and categorize diverse classes of natural compounds."
+  categories: ["bioscience"] # Updated category
 
-- name: Python
+- name: Python Programming
   logo: /images/sections/skills/python.png
-  summary: "Adept in Python using IDLE and PyCharm, with a background in programming competitions. Strong in data preprocessing and insightful data visualization."
+  summary: "Leveraging Python (IDLE, PyCharm) for robust data analysis pipelines – from wrangling complex datasets to generating insightful visualizations. Analytical problem-solving approach honed in competitive programming arenas."
   url: "https://www.python.org"
-  categories: ["data-code"]
+  categories: ["code-data"] # Updated category
 
-- name: R
+- name: R Data Handling
   logo: /images/sections/skills/r.png
-  summary: "Skilled at data handling, cleaning, and visualization in R, leveraging RStudio and ggplot2. Comfortable using R Markdown for reproducible reporting."
+  summary: "Employing R (RStudio, ggplot2) for meticulous data cleaning, transformation, and creating publication-quality visualizations. Generating transparent, reproducible reports using R Markdown."
   url: "https://www.r-project.org"
-  categories: ["data-code"]
+  categories: ["code-data"] # Updated category
 
-- name: SQL
+- name: SQL Database Querying
   logo: /images/sections/skills/sql.png
-  summary: "Proficient in writing SQL queries for data retrieval, manipulation (CRUD), and analysis."
-  categories: ["data-code"]
+  summary: "Constructing precise SQL queries to retrieve, modify (CRUD), and analyze data residing within relational database systems."
+  categories: ["code-data"] # Updated category
 
-- name: Perl
+- name: Perl Scripting
   logo: /images/sections/skills/perl.png
-  summary: "Solid command of Perl fundamentals, including variables, data manipulation, control flow, data structures, file I/O, regex, and functions. Acquainted with lexical scoping."
+  summary: "Applying Perl fundamentals for efficient text manipulation and automation tasks, utilizing regex, file I/O, and modular code structures effectively."
   url: "https://www.perl.org"
-  categories: ["data-code"]
+  categories: ["code-data"] # Updated category
 
-- name: C++
+- name: C++ Problem Solving
   logo: /images/sections/skills/c++.png
-  summary: "Able to apply basic C/C++ concepts (loops, conditionals, arrays) to solve problems in competitive programming contexts."
-  categories: ["data-code"]
+  summary: "Utilizing core C/C++ principles (control flow, data structures) to devise efficient solutions for algorithmic problems, sharpened in competitive programming."
+  categories: ["code-data"] # Updated category
 
-- name: Linux
+- name: Linux System Mastery
   logo: /images/sections/skills/linux.png
-  summary: "Highly versed in Linux system administration, from setup to configuration of both traditional and immutable environments. Proficient in writing complex bash/shell scripts and skilled in command-line operations."
+  summary: "Building and maintaining stable Linux environments (mutable/immutable), from initial setup to ongoing administration. Expertise in shell scripting for automation and precise command-line control of digital infrastructure."
   url: "https://kernel.org"
-  categories: ["it-cloud"]
+  categories: ["infra-it"] # Updated category
 
-- name: Git
+- name: Git Version Control
   logo: /images/sections/skills/git.png
-  summary: "Seasoned in Git workflows across GitHub, GitLab, and Bitbucket, with significant background in GitHub for version control, branching, and collaborative code reviews via pull requests."
+  summary: "Managing code evolution and collaboration using Git workflows across platforms (GitHub, GitLab, Bitbucket). Expertise in branching, merging, and facilitating code reviews via pull requests."
   url: "https://git-scm.com/"
-  categories: ["it-cloud", "data-code"]
+  categories: ["infra-it", "code-data"] # Updated categories
 
-- name: Cloud Computing
+- name: Cloud Platform Familiarity
   logo: /images/sections/skills/cloud.png
-  summary: "Familiar with cloud platforms (AWS, GCP, Azure), with a particular focus on Azure administration and configuration."
-  categories: ["it-cloud"]
+  summary: "Navigating key cloud environments (AWS, GCP, Azure), with practical experience in administering and configuring services within the Azure ecosystem."
+  categories: ["infra-it"] # Updated category
 
-- name: Website Development
+- name: Web Development & Deployment
   logo: /images/sections/skills/webdev.png
-  summary: "Able to build and deploy clean, performant static sites with Hugo and Netlify (like this portfolio), and dynamic sites with WordPress. Focused on design, functionality, and user experience. Some knowledge of the Flask microframework."
-  categories: ["it-cloud", "design"]
+  summary: "Architecting and deploying polished, performant websites using static (Hugo/Netlify - like this portfolio!) and dynamic (WordPress) frameworks. Foundational knowledge of Flask. Emphasis on user experience and robust design implementation."
+  categories: ["infra-it", "design"] # Updated categories
 
-- name: Writing and Documentation
+- name: Multilingual Communication & Documentation
   logo: /images/sections/skills/creative-writing.png
-  summary: "Versatile writer with skills in academic and creative writing, transcription, translation (English ↔ Bangla), and typesetting. Committed to crafting clear, compelling, and effective content."
-  categories: ["comms-pm"]
+  summary: "Articulating ideas effectively across mediums: academic writing, creative content, technical documentation, and fluid English ↔ Bangla translation/transcription. Includes professional typesetting capabilities."
+  categories: ["comms-collab"] # Updated category
 
-- name: Virtual Meeting Moderation
+- name: Virtual Event Facilitation
   logo: /images/sections/skills/videoconference.png
-  summary: "Capable of moderating virtual meetings and events on platforms like Zoom and Google Meet, managing participant interactions and ensuring smooth, productive sessions."
-  categories: ["comms-pm"]
+  summary: "Orchestrating engaging and productive virtual meetings (Zoom, Google Meet), guiding participant interaction and ensuring seamless technical execution."
+  categories: ["comms-collab"] # Updated category
 
-- name: Project Management
+- name: Project & Task Management Tech
   logo: /images/sections/skills/collaboration.png
-  summary: "Familiar with project management tools like Asana, Notion, Trello, ClickUp, Jira, and Todoist. Particularly practiced with Todoist, Asana, and Notion."
-  categories: ["comms-pm"]
+  summary: "Leveraging digital tools (Asana, Notion, Trello, ClickUp, Jira, Todoist) to structure projects, manage tasks, and maintain workflow visibility. Deep familiarity with Todoist, Asana, and Notion."
+  categories: ["comms-collab"] # Updated category
 
-- name: Beta Testing and Community Support
+- name: Beta Testing & Community Engagement
   logo: /images/sections/skills/bug.png
-  summary: "Background in beta testing, debugging, and providing detailed feedback to developers. Demonstrated ability in community support and online moderation, exemplified by moderating for Notesnook."
-  categories: ["comms-pm", "general"]
+  summary: "Identifying and reporting software issues during development cycles, providing actionable feedback. Experience in nurturing online communities through helpful support and moderation (demonstrated via Notesnook)."
+  categories: ["comms-collab", "core-skills"] # Updated categories
 
-- name: Graphic Design
+- name: Graphic Design Fundamentals
   logo: /images/sections/skills/crop-tool.png
-  summary: "Working knowledge of graphic design with Adobe Photoshop, Illustrator, GIMP, and Inkscape. Fluent in Affinity Creative Suite."
-  categories: ["design"]
+  summary: "Creating and manipulating visual assets using industry-standard tools (Adobe Photoshop/Illustrator), open-source alternatives (GIMP/Inkscape), and full fluency in the Affinity Suite."
+  categories: ["design"] # Updated category
 
-- name: Prompt Engineering
+- name: AI Prompt Crafting
   logo: /images/sections/skills/artificial-intelligence.png
-  summary: "Practiced in crafting effective prompts for generative AI models (Gemini, Playground, GPT, Claude, DALL-E, Whisper), tailoring inputs to achieve desired outputs."
-  categories: ["general"]
+  summary: "Designing targeted prompts to steer generative AI models (Gemini, GPT series, Claude, DALL-E, Whisper etc.), optimizing inputs for desired creative and analytical outputs."
+  categories: ["design", "code-data"] # Updated categories (moved from core-skills to design)
 
-- name: Office Suite
+- name: Office Productivity Suites
   logo: /images/sections/skills/office-suite.png
-  summary: "Efficient in creating high-quality documents, presentations, and spreadsheets using Microsoft Office and OpenOffice-based suites."
-  categories: ["general"]
+  summary: "Mastery of standard office software (Microsoft Office, LibreOffice) for producing professional documents, compelling presentations, and well-structured spreadsheets."
+  categories: ["core-skills"] # Updated category
 
-- name: Workplace Email & Collaboration Management
+- name: Collaboration Suite Administration
   logo: /images/sections/skills/workspace.png
-  summary: "Well-versed in managing users, emails, and collaboration tools on Microsoft 365 and Zoho Workplace. Able to configure permissions and workflows to boost team productivity, as demonstrated by the business email setup for this portfolio."
-  categories: ["general", "comms-pm"]
+  summary: "Architecting and managing digital collaboration ecosystems (Microsoft 365, Zoho Workplace), configuring secure access, optimizing workflows, and administering core communication infrastructure."
+  categories: ["infra-it", "comms-collab", "core-skills"] # Updated categories
 
-- name: Soft Skills
+- name: Core Professional Attributes
   logo: /images/sections/skills/soft-skills.png
-  summary: "Adaptable, creative problem-solver. Thrives in collaborative environments, committed to continuous learning, and delivers high-quality results."
-  categories: ["general"]
+  summary: "A foundation of adaptability, creative problem-solving, and a collaborative spirit. Driven by a commitment to continuous learning and delivering high-caliber work."
+  categories: ["core-skills"] # Updated category
 
 # - name: Kubernetes
 #   logo: /images/sections/skills/kubernetes.png

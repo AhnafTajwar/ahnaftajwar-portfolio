@@ -20,9 +20,9 @@ company:
 
 # a summary about you
 summary: |
-  Seeking to illuminate the fundamental principles of nature, Ahnaf Tajwar is a life scientist making tiny waves. Building upon a Master's in Genetic Engineering and Biotechnology, and a knack for molecular biology and bioinformatics, he's a gentle wellspring in the lab and beyond. From clinical trials to unraveling the secrets of genomes and proteins, Ahnaf's research contributions are tangible. His expertise spans wet lab techniques, microbiological analyses and complex genomic and proteomic data analysis.
+  The quest to decipher nature's intricate blueprint guides Ahnaf Tajwar through the life sciences landscape. Leveraging degrees in Genetic Engineering and Biotechnology, he deftly weaves together deep insights from molecular biology and bioinformatics with tangible skill at the lab bench. His research path includes contributions to clinical trials and exploring the complexities of genomes and proteins, leaving distinct marks through both meticulous wet lab procedures and sophisticated data interpretation.
 
-  He's not just about data and experiments. Ahnaf's a natural mentor, eager to inspire the next generation of researchers. With a toolkit overflowing with diverse skills, from precise clinical sample handling to sophisticated phylogenetic analysis, he's a valuable asset to any team. Beyond the bench, Ahnaf excels in communication, translating complex findings into compelling visuals and presentations. This rare blend of technical prowess, collaborative spirit, and infectious enthusiasm makes Ahnaf a truly well-rounded scientist, poised to make a significant impact in his field. He is driven to contribute to impactful research and is enthusiastic about collaboration.
+  Beyond discovery, Ahnaf acts as a thoughtful wellspring for aspiring researchers, finding fulfillment in mentorship. He possesses a knack for translating complex biological narratives into clear, compelling visuals and presentations. Equally adept at focused independent investigation and synergistic teamwork, he thrives in diverse research settings. Ahnaf's genuine enthusiasm for collaboration, combined with a drive to add meaningful ripples to the pool of scientific knowledge, makes him a dynamic and resourceful presence in any scientific endeavor.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -108,47 +108,47 @@ badges:
 - type: soft-skill-indicator
   name: Clinical Research Coordination
   percentage: 90
-  color: "#f44336"
+  color: "#D32F2F"  # Strong Red
 
 - type: soft-skill-indicator
   name: Computational Biology
   percentage: 85
-  color: "#e91e63"
+  color: "#3949AB"  # Vibrant Indigo (distinct from blues/teals/purples)
 
 - type: soft-skill-indicator
   name: Recombinant DNA Technology
   percentage: 90
-  color: "#9c27b0"
+  color: "#8E24AA"  # Deep Purple
 
 - type: soft-skill-indicator
   name: Microbial and Biochemical Assays
   percentage: 90
-  color: "#3f51b5"
+  color: "#00897B"  # Biological Teal (kept from previous)
 
 - type: soft-skill-indicator
   name: Data Analysis
   percentage: 85
-  color: "#03a9f4"
+  color: "#039BE5"  # Clear Light Blue
 
 - type: soft-skill-indicator
   name: Linux System Administration
   percentage: 100
-  color: "#8bc34a"
+  color: "#43A047"  # Tech Green
 
 - type: soft-skill-indicator
   name: Writing & Documentation
   percentage: 95
-  color: "#009688"
+  color: "#546E7A"  # Professional Blue-Grey
 
 - type: soft-skill-indicator
   name: Project Management
   percentage: 85
-  color: "#ffc107"
+  color: "#FBC02D"  # Vibrant Yellow/Gold
 
 - type: soft-skill-indicator
   name: Prompt Engineering
   percentage: 80
-  color: "#ff5722"
+  color: "#F4511E"  # Energetic Deep Orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
