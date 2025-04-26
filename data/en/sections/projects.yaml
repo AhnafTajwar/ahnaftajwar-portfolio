@@ -22,10 +22,8 @@ buttons:
   filter: "comms-collab"
 - name: Design
   filter: "design"
-- name: Core Skills
-  filter: "core-skills"
 
-# your projects (Refined Tagging for Web/Blog Projects)
+# your projects
 projects:
 - name: A Randomized, Double-Blind, Placebo-Controlled, Safety, Tolerability and Pharmacokinetic Phase I Study of Escalating Single Doses of VPO-227 in Healthy Volunteers
   logo: /images/sections/projects/cholera.png
@@ -87,7 +85,7 @@ projects:
   logo: /images/sections/projects/portfolio-development.png
   role: Web Development (Static)
   timeline: "Apr 2024 - Present"
-  summary: "Designed, developed, and deployed this personal portfolio utilizing the Hugo static site generator. Leveraged GitHub for robust version control and Netlify for seamless continuous integration and deployment (CI/CD)."
+  summary: "Architected and deployed this personal portfolio leveraging the Hugo static site generator. Utilized a modern development workflow with GitHub for version control and Netlify for seamless CI/ CD. Integrated Microsoft 365 for professional email and cloud file management, while also implementing robust web security measures and privacy-focused analytics via Cloudflare."
   tags: ["infra-it", "web-development", "design"]
 
 - name: Creation and Maintenance of A Personal Blog Using Wordpress
