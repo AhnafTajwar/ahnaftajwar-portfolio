@@ -29,21 +29,21 @@ projects:
   logo: /images/sections/projects/cholera.png
   role: Clinical Trial Operations
   timeline: "2024 - Present"
-  summary: "Orchestrated critical lab operations and sample logistics for this Phase I healthy volunteer study. Established rigorous protocols governing biospecimen handling from collection (plasma, urine, stool, sweat) through processing to shipment, ensuring sample integrity and strict biosafety compliance. Made key contributions across trial execution: collaborated on ICF development and guided health worker collection techniques; managed meticulous inventory and IP temperature control; and designed essential labels/documents while maintaining accurate patient record files (CRFs)."
+  summary: "Directed essential lab operations and sample logistics for a Phase I healthy volunteer study. Developed effective protocols and automated labeling systems for thorough biospecimen management (plasma, urine, stool, sweat), covering collection through to shipment and disposal, ensuring sample and bioequipment integrity and strict biosafety compliance. Furthered trial execution by collaborating on ICF development, training health workers in collection techniques, precisely managing inventory and IP temperature control, designing vital labels and documents, and maintaining accurate patient record files (CRFs)."
   tags: ["bioscience", "clinical-trial", "comms-collab"]
 
 - name: A Global Low- and Middle-Income Country Primary Care (PC) Antimicrobial Stewardship Trial using WHO AWaRe system — the AWaRe 1 Trial
   logo: /images/sections/projects/pills.png
   role: Clinical Trial Support & Localization
   timeline: "2024 - Present"
-  summary: "Facilitated the localization effort for this global primary care trial in Bangladesh, translating essential documents and questionnaires into Bangla for Upazila Health Complexes. Identified key personnel for advisory roles and training needs, and developed crucial facility location maps to support logistical planning."
+  summary: "Facilitated the localization effort for this global primary care trial in Bangladesh, translating essential documents and questionnaires into Bangla for surveillance software for Upazila Health Complexes. Identified key personnel for advisory roles and training needs, and developed crucial facility location maps to support logistical planning."
   tags: ["bioscience", "clinical-trial", "comms-collab"]
 
 - name: Clinical Trial on Detection of hepatocellular carcinoma (HCC) with non-invasive method based on DNA methylation of circulated tumor DNA, PBMC and T cells
   logo: /images/sections/projects/non-hcc.png
   role: Clinical Research Support
   timeline: "2024 - Present"
-  summary: "Executed vital blood specimen processing and storage protocols for ctDNA methylation analysis in HCC detection. Architected and managed comprehensive digital documentation systems for patient records, ICFs, and test reports. Standardized sample handling and documentation procedures, ensuring regulatory compliance and optimal specimen integrity for shipment."
+  summary: "Executed crucial blood specimen processing and storage protocols for ctDNA methylation analysis in HCC detection. Architected and managed comprehensive digital documentation systems for patient records, ICFs, and test reports. Standardized sample handling and documentation procedures, ensuring regulatory compliance and optimal specimen integrity for shipment."
   tags: ["bioscience", "clinical-study", "comms-collab"]
 
 - name: Study of Epigenetic Changes in Blood Samples in Breast Cancer Patients
@@ -64,7 +64,7 @@ projects:
   logo: /images/sections/projects/woodsonii.png
   role: Masters Thesis Research (Lab-Based)
   timeline: "Aug 2023 - Jan 2024"
-  summary: "Conducted comprehensive laboratory research for Masters thesis. Involved extracting bioactive compounds from *Costus woodsonii* using various solvent systems, performing qualitative phytochemical screening, and evaluating *in vitro* antimicrobial efficacy against pathogenic bacteria via bi-layer diffusion and TLC bioautography."
+  summary: "Conducted comprehensive laboratory research for Masters thesis. Involved extracting bioactive compounds from *Costus woodsonii* using various solvent systems, performing qualitative phytochemical screening, and evaluating their *in vitro* antimicrobial efficacy against pathogenic bacteria via bi-layer agar diffusion and TLC bioautography."
   tags: ["bioscience", "lab-research"]
 
 - name: Exploring the Virulence of Tsukamurella paurometabola Through Functional Annotation of Hypothetical Proteins
