@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: IDD Special Activities, icddr,b
+      name: icddr,b
       url: "https://www.icddrb.org/"
       location: Dhaka, Bangladesh
       logo: /images/sections/experiences/icddrb.png
       # Can optionally show a different logo for dark theme
       # darkLogo: /images/sections/experiences/company1.jpg
       # company overview
-      overview: icddr,b, a leading global health research institute based in Dhaka, Bangladesh, is dedicated to addressing public health challenges in low- and middle-income countries through innovative scientific research. For over 50 years, the institute has conducted high-quality research and promoted evidence-based interventions, expanding from its initial focus on diarrhoeal disease to encompass a wide range of public health issues.
+      overview: icddr,b, a leading global health research institute based in Dhaka, Bangladesh, is dedicated to addressing public health challenges in low- and middle-income countries through innovative scientific research. For over 50 years, the institute has conducted high-quality research and promoted evidence-based interventions, expanding from its initial focus on diarrhoeal disease to encompass a wide range of public health issues. Ahnaf contributed to the IDD Special Activities team within the Infectious Diseases Division, conducting multifaceted clinical research that integrated laboratory analysis, fieldwork, and operational support.
     positions:
       - designation: Research Assistant
         start: Sep 2024
