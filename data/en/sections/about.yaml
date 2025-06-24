@@ -90,10 +90,10 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Google Data Analytics Professional Certificate
+  url: "https://www.credly.com/badges/723d4862-2450-4906-9271-73fa1c2de543/public_url"
+  badge: "https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png"
 
 # - type: certification
 #   name: Istio and IBM Cloud Kubernetes Service
@@ -113,7 +113,7 @@ badges:
 - type: soft-skill-indicator
   name: Computational Biology
   percentage: 85
-  color: "#3949AB"  # Vibrant Indigo (distinct from blues/teals/purples)
+  color: "#3949AB"  # Vibrant Indigo
 
 - type: soft-skill-indicator
   name: Recombinant DNA Technology
@@ -123,12 +123,7 @@ badges:
 - type: soft-skill-indicator
   name: Microbial and Biochemical Assays
   percentage: 90
-  color: "#00897B"  # Biological Teal (kept from previous)
-
-- type: soft-skill-indicator
-  name: Data Analysis
-  percentage: 85
-  color: "#039BE5"  # Clear Light Blue
+  color: "#00897B"  # Biological Teal
 
 - type: soft-skill-indicator
   name: Linux System Administration

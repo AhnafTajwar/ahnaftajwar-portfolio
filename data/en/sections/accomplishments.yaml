@@ -11,14 +11,21 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name:  How to Develop an Operational Research Grant Proposal
+- name:  Google Data Analytics Professional Certificate
+  timeline: "June 2025"
+  organization:
+    name: Google
+    url: https://grow.google/certificates/data-analytics/
+  courseOverview: The course covers topics such as defining the research question, research methodology, data collection and analysis, ethics, study design and sampling, and project management and budgeting. This comprehensive coverage ensures that students gain a well-rounded understanding of the research process and its various components.
+  certificateURL: "https://coursera.org/share/a455ede4e94f9a0880236b1909758d2b"
+
+- name: How to Develop an Operational Research Grant Proposal
   timeline: "April 2025"
   organization:
     name: The Union
     url: https://coursesonline.theunion.org/theunion/
   courseOverview: The course covers topics such as defining the research question, research methodology, data collection and analysis, ethics, study design and sampling, and project management and budgeting. This comprehensive coverage ensures that students gain a well-rounded understanding of the research process and its various components.
   certificateURL: "files/grantproposal-cert.pdf"
-
 
 - name: Macroduct Advanced Model 3710 and ChloroChek Model 3400 Operation
   timeline: "January 2025"
