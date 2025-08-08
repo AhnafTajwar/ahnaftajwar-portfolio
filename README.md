@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a364e3c9-5c00-4438-ba1e-59c628b2fcce/deploy-status)](https://app.netlify.com/sites/ahnaftajwar-portfolio/deploys) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FAhnafTajwar%2Fahnaftajwar-portfolio%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/AhnafTajwar/ahnaftajwar-portfolio/goto?ref=main) ![Repository Size](https://img.shields.io/github/repo-size/AhnafTajwar/ahnaftajwar-portfolio) ![Contributor](https://img.shields.io/github/contributors/AhnafTajwar/ahnaftajwar-portfolio) ![Last Commit](https://img.shields.io/github/last-commit/AhnafTajwar/ahnaftajwar-portfolio) ![License](https://img.shields.io/github/license/AhnafTajwar/ahnaftajwar-portfolio) ![Open Issues](https://img.shields.io/github/issues/AhnafTajwar/ahnaftajwar-portfolio?color=important) ![Open Pull Requests](https://img.shields.io/github/issues-pr/AhnafTajwar/ahnaftajwar-portfolio?color=yellowgreen) [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/7bafb801/ahnaftajwar-portfolio)
 
-This repository hosts Ahnaf Tajwar's comprehensive portfolio showcasing his professional work, academic projects, and research contributions.
+This repository hosted Ahnaf Tajwar's comprehensive portfolio showcasing his professional work, academic projects, and research contributions until August 5, 2025.
 
 Last date of integrating commits from original repo: 24 May 2025 (#369)
 
